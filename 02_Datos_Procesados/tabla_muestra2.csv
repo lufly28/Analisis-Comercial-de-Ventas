@@ -1,0 +1,819 @@
+fecha_pedido,ingresos,unidades,estado_venta,metodo_pago,region,cliente,producto,categoria
+19/2/2021 09:19,4801.04,51,Pendiente,Sin definir,Seattle,Andre Andersen,appliance,grocery health
+10/9/2022 09:38,4653.26,62,Cancelado,PayPal,Sin registrar,Hannah Novak,clothing appliance,Sin categoría
+4/12/2022 13:42,10.01,63,Completado,Sin definir,Bogota,Pedro Gupta,widget gadget gear,grocery health
+19/1/2022 02:01,29.39,36,Pendiente,Credit Card,Sin registrar,Nour Fischer,tool cosmetic,electronics software
+19/1/2022 02:01,29.39,36,Pendiente,Credit Card,Sin registrar,Nour Fischer,tool cosmetic,electronics software
+23/12/2022 16:24,733.33,53,Cancelado,Sin definir,Cape Town,Olivia Silva,book tool,jewelry
+9/11/2021 09:01,803.09,27,Completado,Credit Card,Nairobi,Jack Davis,book,jewelry grocery
+9/11/2021 09:01,803.09,27,Completado,PayPal,Nairobi,Jack Davis,book,jewelry grocery
+4/9/2022 13:18,29.99,35,Pendiente,PayPal,Dublin,Mei Flores,tool,grocery health
+27/6/2022 13:20,3024.74,44,Cancelado,PayPal,Manila,Julia Martin,item accessory,Sin categoría
+18/9/2021 11:56,4034.03,55,Completado,Credit Card,Munich,Rafael Costa,toy cosmetic,Sin categoría
+22/12/2021 14:39,1708.86,47,Pendiente,Credit Card,Ankara,Elena Walker,book widget kitchenware,accessories furniture
+22/12/2021 14:39,1708.86,47,Pendiente,Credit Card,Ankara,Elena Walker,book widget kitchenware,accessories furniture
+1/4/2022 19:43,2498.86,26,Cancelado,PayPal,Cairo,Lena Sousa,book widget kitchenware,accessories furniture
+13/5/2022 16:05,57.07,43,Completado,Sin definir,Prague,Marco Miller,widget gadget gear,grocery health
+6/2/2022 11:54,156.22,61,Pendiente,PayPal,Mumbai,Fatima Novak,tool,grocery health
+7/2/2021 11:28,4699.39,64,Cancelado,Sin definir,Ankara,Uma Diaz,appliance cosmetic gear,grocery toys beauty
+30/4/2021 09:49,343.5,35,Completado,Sin definir,Mumbai,Leo Shah,device hardware appliance,software
+11/2/2021 12:48,2484.75,52,Pendiente,Credit Card,Lisbon,Alice Andersen,book,jewelry grocery
+2/4/2021 15:45,59.31,60,Cancelado,Sin definir,Paris,Nina Hassan,appliance,grocery health
+10/3/2021 09:02,100.99,55,Completado,Credit Card,Paris,Maya Adams,device hardware appliance,software
+10/3/2021 09:02,100.99,55,Completado,PayPal,Paris,Maya Adams,device hardware appliance,software
+16/3/2021 11:38,2299.27,48,Pendiente,Bank Transfer,Cape Town,Olivia Silva,appliance cosmetic gear,grocery toys beauty
+16/3/2021 11:38,2299.27,48,Pendiente,Credit Card,Cape Town,Olivia Silva,appliance cosmetic gear,grocery toys beauty
+16/3/2021 11:38,2299.27,48,Pendiente,PayPal,Cape Town,Olivia Silva,appliance cosmetic gear,grocery toys beauty
+10/12/2022 07:35,0,34,Cancelado,PayPal,Sin registrar,Zoe Hassan,gadget hardware,software
+10/12/2022 07:35,0,34,Cancelado,PayPal,Sin registrar,Zoe Hassan,gadget hardware,software
+27/6/2022 09:22,431.66,52,Completado,Sin definir,Dublin,Pedro Ruiz,book,jewelry grocery
+27/11/2021 17:17,1719.18,44,Pendiente,Credit Card,Toronto,Elena Hassan,hardware,home beauty
+12/1/2022 14:11,0,62,Cancelado,Sin definir,Sin registrar,Sara Kaya,footwear,jewelry grocery
+13/6/2021 16:59,1878.62,59,Completado,PayPal,Austin,Victor Gomez,jewelry game,accessories furniture
+16/6/2022 08:39,31.52,38,Pendiente,Credit Card,Nairobi,Fatima Moreau,footwear hardware item,electronics software
+9/9/2022 16:27,4794.59,39,Cancelado,Credit Card,Sydney,Mateo Adams,tool,grocery health
+9/9/2022 16:27,4794.59,39,Cancelado,PayPal,Sydney,Mateo Adams,tool,grocery health
+8/7/2022 17:23,343.66,68,Completado,Sin definir,Vancouver,Alice Tanaka,gadget tool book,jewelry
+6/6/2021 01:39,336.89,58,Pendiente,Credit Card,Ankara,Sam Demir,hardware,software
+7/5/2021 11:41,17.77,63,Cancelado,Gift Card,Izmir,Grace Silva,appliance,grocery health
+12/11/2022 13:55,16.2,63,Completado,PayPal,Sao Paulo,Olivia Chen,footwear hardware item,electronics software
+4/7/2021 15:11,2193.56,68,Pendiente,Sin definir,Bogota,Pedro Gupta,game jewelry,Sin categoría
+25/11/2021 12:37,4219.57,58,Cancelado,Credit Card,San Diego,Daniel Evans,stationery,home beauty
+25/11/2021 12:37,4219.57,58,Cancelado,PayPal,San Diego,Daniel Evans,stationery,home beauty
+12/4/2022 19:24,24.0,33,Completado,Sin definir,Dublin,Sara Becker,kitchenware product,software
+22/6/2022 13:45,193.52,46,Pendiente,Credit Card,Sydney,Olivia Garcia,tool kitchenware furniture,software
+22/6/2022 13:45,193.52,46,Pendiente,Credit Card,Sydney,Olivia Garcia,tool kitchenware furniture,software
+18/4/2022 11:53,38.03,66,Cancelado,Credit Card,Santiago,Liam Ibrahim,jewelry game,accessories furniture
+18/4/2022 11:53,38.03,66,Cancelado,PayPal,Santiago,Liam Ibrahim,jewelry game,accessories furniture
+9/6/2022 14:00,3008.56,34,Completado,Credit Card,Manchester,Chloe Singh,device hardware appliance,software
+9/6/2022 14:00,3008.56,34,Completado,Gift Card,Manchester,Chloe Singh,device hardware appliance,software
+28/4/2021 12:20,2601.25,70,Pendiente,PayPal,San Diego,Omar Smith,stationery software,grocery toys beauty
+9/12/2021 11:30,164.87,46,Cancelado,Credit Card,San Diego,Daniel Evans,jewelry game,accessories furniture
+17/1/2021 13:11,44.14,16,Completado,Credit Card,Paris,Nina Hassan,toy cosmetic,Sin categoría
+17/1/2021 13:11,44.14,16,Completado,PayPal,Paris,Nina Hassan,toy cosmetic,Sin categoría
+25/1/2021 16:58,220.99,29,Pendiente,Sin definir,Edinburgh,Victor Smith,hardware,software
+1/11/2022 09:14,26.94,52,Cancelado,Credit Card,Buenos Aires,Lucas Rossi,tool,grocery health
+1/11/2022 09:14,26.94,52,Cancelado,PayPal,Buenos Aires,Lucas Rossi,tool,grocery health
+1/11/2022 09:14,26.94,52,Cancelado,PayPal,Buenos Aires,Lucas Rossi,tool,grocery health
+11/12/2022 17:18,635.65,38,Completado,Credit Card,Oslo,Daniel Chen,book tool,jewelry
+11/12/2022 17:18,635.65,38,Completado,PayPal,Oslo,Daniel Chen,book tool,jewelry
+21/7/2021 11:32,107.49,67,Pendiente,Gift Card,Chicago,Alice Baker,gear item,Sin categoría
+21/7/2021 11:32,107.49,67,Pendiente,Gift Card,Chicago,Alice Baker,gear item,Sin categoría
+15/9/2021 14:26,4887.3,70,Cancelado,Sin definir,Hamburg,Mateo Lopez,book widget kitchenware,accessories furniture
+26/12/2022 16:36,0,64,Completado,Sin definir,Cairo,Ines Novak,gadget hardware,software
+23/6/2021 14:36,4273.47,31,Pendiente,Sin definir,Edinburgh,Alice Hassan,software widget game,grocery toys beauty
+22/8/2022 16:56,21.52,58,Cancelado,Sin definir,Sin registrar,Amir Hansen,gadget product jewelry,jewelry grocery
+28/9/2022 19:41,3486.81,17,Completado,Bank Transfer,Porto,Ruby Castro,tool cosmetic,electronics software
+28/1/2022 10:47,12.73,64,Pendiente,Sin definir,Izmir,Sam Kowalski,widget,electronics software
+31/10/2021 16:14,11.54,47,Cancelado,Credit Card,Singapore,Omar Nguyen,gadget product jewelry,jewelry grocery
+31/10/2021 16:14,11.54,47,Cancelado,Credit Card,Singapore,Omar Nguyen,gadget product jewelry,jewelry grocery
+16/1/2021 09:32,831.64,59,Completado,Sin definir,Austin,Jonas Hoffmann,game widget,grocery toys beauty
+18/6/2022 09:17,278.16,39,Pendiente,Credit Card,Lyon,Ruby Moreau,stationery software,grocery toys beauty
+18/6/2022 09:17,278.16,39,Pendiente,Credit Card,Lyon,Ruby Moreau,stationery software,grocery toys beauty
+18/6/2022 09:17,278.16,39,Pendiente,Credit Card,Lyon,Ruby Moreau,stationery software,grocery toys beauty
+18/6/2022 09:17,278.16,39,Pendiente,PayPal,Lyon,Ruby Moreau,stationery software,grocery toys beauty
+25/12/2021 07:19,32.2,42,Cancelado,Credit Card,Oslo,Fatima Wang,stationery,software
+25/12/2021 07:19,32.2,42,Cancelado,PayPal,Oslo,Fatima Wang,stationery,software
+21/11/2021 13:05,3218.68,54,Completado,PayPal,Sin registrar,Jonas Hoffmann,tool cosmetic,electronics software
+25/9/2021 10:18,10.0,67,Pendiente,Sin definir,Oslo,Fatima Wang,book kitchenware hardware,software
+3/10/2022 06:06,0,29,Cancelado,Gift Card,Lyon,Amir Patel,gadget tool book,jewelry
+30/1/2022 17:40,2948.08,44,Completado,Credit Card,Manchester,Chloe Singh,appliance,grocery health
+29/4/2021 17:11,0,15,Pendiente,PayPal,Seattle,Daniel Park,footwear,jewelry grocery
+21/5/2022 17:27,2836.83,56,Cancelado,Sin definir,Berlin,Ivan Pereira,footwear gear,Sin categoría
+24/7/2022 12:56,800.85,86,Completado,Credit Card,Stockholm,Sam Silva,stationery,home beauty
+6/1/2021 22:50,2271.81,17,Pendiente,Credit Card,Porto,Ruby Castro,tool,grocery health
+6/1/2021 22:50,2271.81,17,Pendiente,Gift Card,Porto,Ruby Castro,tool,grocery health
+3/5/2021 12:55,439.32,71,Cancelado,Sin definir,Jakarta,Mateo Shah,game widget,grocery toys beauty
+4/1/2022 17:52,15.99,41,Completado,Credit Card,Paris,Maya Adams,kitchenware stationery game,Sin categoría
+4/1/2022 17:52,15.99,41,Completado,PayPal,Paris,Maya Adams,kitchenware stationery game,Sin categoría
+27/11/2021 15:39,33.93,66,Pendiente,Sin definir,Sin registrar,Alice Sato,game item furniture,electronics software
+30/8/2021 10:09,792.66,54,Cancelado,Credit Card,Zurich,Ravi Pereira,book widget kitchenware,accessories furniture
+21/7/2021 11:03,1812.39,47,Completado,PayPal,Cape Town,Paula Flores,device,jewelry grocery
+9/12/2021 15:57,3382.11,57,Pendiente,Sin definir,Oslo,Sam Meyer,toy,grocery health
+8/1/2022 13:52,59.1,53,Cancelado,Sin definir,Munich,Rafael Costa,tool cosmetic,electronics software
+19/8/2021 10:37,97.14,27,Completado,Sin definir,Denver,Felix Khan,footwear hardware item,electronics software
+15/1/2021 10:43,0,24,Pendiente,Credit Card,Sin registrar,Alice Bauer,jewelry,software
+3/12/2021 11:28,1109.71,52,Cancelado,Credit Card,Oslo,Fatima Wang,device hardware appliance,software
+24/7/2022 15:24,2712.65,42,Completado,PayPal,Zurich,Ravi Pereira,footwear,jewelry grocery
+31/5/2021 15:41,1579.45,73,Pendiente,Credit Card,Edinburgh,Alice Hassan,footwear gear,Sin categoría
+10/1/2022 13:33,4898.88,48,Cancelado,Credit Card,Mumbai,Leo Shah,jewelry game,accessories furniture
+5/5/2021 23:27,32.78,37,Completado,PayPal,Berlin,Daniel Wang,clothing appliance book,home beauty
+5/5/2021 23:27,32.78,37,Completado,PayPal,Berlin,Daniel Wang,clothing appliance book,home beauty
+8/2/2022 11:22,214.03,31,Pendiente,PayPal,Sin registrar,Carlos Castro,footwear,jewelry grocery
+28/3/2021 16:32,11.4,47,Cancelado,PayPal,Seoul,Lina Kowalski,clothing appliance,Sin categoría
+31/10/2021 11:00,369.74,21,Completado,Credit Card,Sydney,Hugo Patel,stationery,home beauty
+31/10/2021 11:00,369.74,21,Completado,Credit Card,Sydney,Hugo Patel,stationery,home beauty
+12/8/2022 12:35,10.06,31,Pendiente,Credit Card,Jakarta,Hannah Sousa,software game gear,Sin categoría
+28/1/2021 15:09,602.68,53,Cancelado,Gift Card,Denver,Maja Zhang,stationery,home beauty
+3/3/2021 14:00,0,47,Completado,Credit Card,Barcelona,Ravi Kim,game widget,grocery toys beauty
+9/4/2021 13:32,0,46,Pendiente,Credit Card,Istanbul,Lucas Chen,stationery,home beauty
+18/5/2022 17:54,1354.97,81,Cancelado,PayPal,Amsterdam,Mia Mendes,appliance,grocery health
+12/7/2022 06:52,738.32,59,Completado,Credit Card,Helsinki,Amir Reyes,jewelry,software
+12/7/2022 06:52,738.32,59,Completado,Credit Card,Helsinki,Amir Reyes,jewelry,software
+12/7/2022 06:52,738.32,59,Completado,PayPal,Helsinki,Amir Reyes,jewelry,software
+20/8/2021 14:30,372.83,37,Pendiente,Sin definir,Jakarta,Mateo Shah,game widget,grocery toys beauty
+24/3/2022 16:10,1593.67,51,Cancelado,Sin definir,Toronto,Elena Hassan,cosmetic,home beauty
+30/12/2022 10:20,1960.84,39,Completado,Sin definir,Edinburgh,Alice Hassan,book jewelry,Sin categoría
+25/10/2022 10:14,303.16,61,Pendiente,Credit Card,Sin registrar,Carlos Castro,accessory clothing,Sin categoría
+4/3/2021 15:13,2173.99,42,Cancelado,PayPal,Melbourne,Andre Singh,gadget product jewelry,jewelry grocery
+4/3/2021 15:13,2173.99,42,Cancelado,PayPal,Melbourne,Andre Singh,gadget product jewelry,jewelry grocery
+15/3/2021 16:18,585.35,31,Completado,Gift Card,Nairobi,Felix Lopez,book,jewelry
+18/7/2022 09:33,1216.87,68,Pendiente,Gift Card,Hamburg,Sven Costa,footwear,jewelry grocery
+8/3/2021 10:24,444.01,46,Cancelado,Credit Card,Montreal,Arjun Hassan,game widget,grocery toys beauty
+22/10/2021 08:08,547.08,30,Completado,Credit Card,Seattle,Daniel Park,book jewelry,Sin categoría
+27/9/2022 18:03,1121.08,55,Pendiente,Credit Card,Munich,Rosa Wang,stationery,home beauty
+2/11/2021 10:11,1917.87,27,Cancelado,Sin definir,Bogota,Pedro Gupta,appliance cosmetic gear,grocery toys beauty
+11/9/2022 13:13,10.03,48,Completado,Sin definir,Prague,Tariq Johnson,tool cosmetic,electronics software
+26/7/2022 13:03,2276.64,67,Pendiente,PayPal,Seoul,Liam Castro,jewelry product accessory,electronics software
+26/7/2022 13:03,2276.64,67,Pendiente,PayPal,Seoul,Liam Castro,jewelry product accessory,electronics software
+20/10/2022 18:47,3605.07,30,Cancelado,Credit Card,London,Mila Hughes,tool kitchenware furniture,software
+20/10/2022 18:47,3605.07,30,Cancelado,Credit Card,London,Mila Hughes,tool kitchenware furniture,software
+20/10/2022 18:47,3605.07,30,Cancelado,Gift Card,London,Mila Hughes,tool kitchenware furniture,software
+10/3/2021 13:47,1573.01,63,Completado,PayPal,Santiago,Mohamed Murphy,software widget game,grocery toys beauty
+15/12/2022 11:26,250.99,36,Pendiente,Sin definir,Cape Town,Paula Flores,hardware,software
+3/9/2022 10:05,3870.95,45,Cancelado,Credit Card,Helsinki,Amir Reyes,cosmetic,home beauty
+3/9/2022 10:05,3870.95,45,Cancelado,Credit Card,Helsinki,Amir Reyes,cosmetic,home beauty
+24/5/2022 11:34,0,47,Completado,Credit Card,Ankara,Sam Demir,game item furniture,electronics software
+24/5/2022 11:34,0,47,Completado,Credit Card,Ankara,Sam Demir,game item furniture,electronics software
+9/12/2021 15:32,40.43,52,Pendiente,PayPal,Toronto,Elena Hassan,jewelry product accessory,electronics software
+8/8/2021 11:07,562.1,52,Cancelado,Credit Card,Barcelona,Nour Rossi,tool,grocery health
+3/10/2022 07:55,53.65,87,Completado,Credit Card,Taipei,Ben Murphy,game jewelry,Sin categoría
+5/7/2022 09:46,269.28,67,Pendiente,Credit Card,Munich,Rafael Costa,kitchenware stationery game,Sin categoría
+5/7/2022 09:46,269.28,67,Pendiente,Credit Card,Munich,Rafael Costa,kitchenware stationery game,Sin categoría
+8/3/2022 17:02,140.63,30,Cancelado,Credit Card,Vienna,Laura Zhang,book widget kitchenware,accessories furniture
+8/3/2022 17:02,140.63,30,Cancelado,PayPal,Vienna,Laura Zhang,book widget kitchenware,accessories furniture
+4/6/2022 12:28,507.64,49,Completado,Sin definir,Munich,Rosa Wang,book widget kitchenware,accessories furniture
+30/9/2021 15:52,1482.36,59,Pendiente,Credit Card,Lyon,Amir Patel,appliance cosmetic gear,grocery toys beauty
+26/9/2021 14:12,3248.67,45,Cancelado,Sin definir,Sydney,Carlos Costa,tool kitchenware furniture,software
+13/3/2022 10:48,169.76,40,Completado,Credit Card,Munich,Sofia Becker,stationery,home beauty
+26/2/2021 14:30,259.33,46,Pendiente,Sin definir,Kyoto,Carlos Singh,book,jewelry
+8/10/2021 16:07,3984.79,65,Cancelado,Credit Card,Bogota,Omar Wilson,jewelry game,accessories furniture
+22/6/2021 00:54,243.39,65,Completado,Credit Card,Sin registrar,Daniel Bennett,gear item,Sin categoría
+22/6/2021 00:54,243.39,65,Completado,Gift Card,Sin registrar,Daniel Bennett,gear item,Sin categoría
+8/5/2021 14:31,1688.41,55,Pendiente,Sin definir,Sydney,Mateo Adams,stationery software,grocery toys beauty
+20/1/2022 13:00,10.73,42,Cancelado,Sin definir,Prague,Tariq Johnson,jewelry game,accessories furniture
+18/10/2021 10:15,0,47,Completado,Sin definir,Cairo,Isaac Khan,game jewelry,Sin categoría
+28/3/2022 10:10,4578.94,38,Pendiente,PayPal,Istanbul,Nadia Murphy,stationery,home beauty
+28/7/2022 22:48,1610.17,27,Cancelado,PayPal,Sin registrar,Selin Cruz,stationery,home beauty
+22/6/2021 12:53,564.64,23,Completado,Credit Card,Jakarta,Mateo Shah,hardware kitchenware,Sin categoría
+31/8/2022 08:41,0,30,Pendiente,Bank Transfer,Seattle,Andre Andersen,jewelry product accessory,electronics software
+29/10/2021 15:25,1902.61,59,Cancelado,PayPal,Denver,Felix Khan,book,jewelry
+14/3/2021 09:55,10.0,53,Completado,Bank Transfer,Sin registrar,Sofia Zhang,book widget kitchenware,accessories furniture
+14/3/2021 09:55,10.0,53,Completado,Gift Card,Sin registrar,Sofia Zhang,book widget kitchenware,accessories furniture
+3/10/2021 08:19,10.03,54,Pendiente,Sin definir,Cairo,Ines Novak,hardware,software
+31/7/2022 13:40,1812.78,27,Cancelado,Sin definir,Manchester,Chloe Singh,kitchenware stationery game,Sin categoría
+23/10/2021 12:06,3769.03,47,Completado,PayPal,Edinburgh,Victor Smith,tool kitchenware furniture,software
+1/7/2021 11:07,0,51,Pendiente,Credit Card,Seattle,Daniel Park,item accessory,Sin categoría
+1/7/2021 11:07,0,51,Pendiente,Gift Card,Seattle,Daniel Park,item accessory,Sin categoría
+2/3/2022 16:21,182.93,45,Cancelado,PayPal,Izmir,Ivan Martin,gadget tool book,jewelry
+2/3/2022 16:21,182.93,45,Cancelado,PayPal,Izmir,Ivan Martin,gadget tool book,jewelry
+19/9/2022 12:23,0,63,Completado,Bank Transfer,Stockholm,Sam Silva,jewelry product accessory,electronics software
+19/9/2022 12:23,0,63,Completado,Bank Transfer,Stockholm,Sam Silva,jewelry product accessory,electronics software
+10/12/2021 13:08,0,39,Pendiente,Credit Card,Seoul,Lucas Zhang,jewelry game,accessories furniture
+24/2/2021 21:54,2573.79,65,Cancelado,Sin definir,Denver,Felix Khan,stationery accessory,jewelry
+19/8/2021 13:04,2512.9,58,Completado,Sin definir,Stockholm,Selin Schmidt,toy cosmetic,Sin categoría
+5/3/2021 10:36,52.59,33,Pendiente,Sin definir,Kyoto,Carlos Singh,kitchenware appliance,Sin categoría
+25/5/2021 09:00,1280.64,41,Cancelado,Sin definir,Munich,Andre Miller,jewelry game,accessories furniture
+22/4/2021 15:26,123.54,84,Completado,Credit Card,Manila,Jade Davis,toy,grocery health
+22/4/2021 15:26,123.54,84,Completado,Gift Card,Manila,Jade Davis,toy,grocery health
+3/8/2021 09:11,146.68,44,Pendiente,Bank Transfer,Izmir,Sam Kowalski,footwear,jewelry grocery
+3/8/2021 09:11,146.68,44,Pendiente,PayPal,Izmir,Sam Kowalski,footwear,jewelry grocery
+1/5/2021 10:44,3172.63,43,Cancelado,Credit Card,Izmir,Ivan Martin,widget,electronics software
+2/6/2022 15:49,0,52,Completado,Credit Card,Paris,Rafael Ruiz,tool kitchenware furniture,software
+26/6/2021 16:19,2905.74,69,Pendiente,Credit Card,Porto,Deniz Lee,software game gear,Sin categoría
+9/8/2021 13:58,3274.44,53,Cancelado,Sin definir,Bangkok,Amir Pereira,tool,grocery health
+19/11/2021 11:55,1495.56,40,Completado,Sin definir,Sin registrar,James Walker,book widget kitchenware,accessories furniture
+20/6/2022 15:15,0,25,Pendiente,Sin definir,Bogota,Omar Wilson,gadget tool book,jewelry
+4/12/2022 14:38,4691.67,62,Cancelado,Sin definir,Cairo,Lena Sousa,widget,electronics software
+29/3/2021 13:50,49.53,43,Completado,Sin definir,Manchester,Chloe Singh,appliance,grocery health
+11/8/2021 14:43,14.17,57,Pendiente,Gift Card,Jakarta,Lina Gomez,hardware kitchenware,Sin categoría
+29/7/2021 10:20,11.35,52,Cancelado,Bank Transfer,London,Diego Ahmed,gadget,jewelry grocery
+29/7/2021 10:20,11.35,52,Cancelado,Credit Card,London,Diego Ahmed,gadget,jewelry grocery
+14/9/2022 17:07,10.02,42,Completado,Credit Card,San Diego,Elif Kumar,footwear,jewelry grocery
+3/10/2022 11:34,0,68,Pendiente,Credit Card,Berlin,Ivan Pereira,accessory clothing,Sin categoría
+20/12/2021 10:12,1406.81,65,Cancelado,Credit Card,Seoul,Ivan Carter,kitchenware product,software
+20/12/2021 10:12,1406.81,65,Cancelado,Credit Card,Seoul,Ivan Carter,kitchenware product,software
+5/9/2022 15:54,346.88,29,Completado,Sin definir,Mexico City,Ben Almeida,widget gadget gear,grocery health
+4/11/2022 14:48,1008.25,58,Pendiente,Credit Card,Izmir,Ivan Martin,kitchenware appliance,Sin categoría
+4/11/2022 14:48,1008.25,58,Pendiente,Gift Card,Izmir,Ivan Martin,kitchenware appliance,Sin categoría
+1/11/2022 18:51,1021.6,50,Cancelado,PayPal,Nairobi,Jack Davis,book jewelry,Sin categoría
+1/3/2022 13:21,775.41,41,Completado,Sin definir,Sin registrar,Zoe Hassan,book tool,jewelry
+16/12/2022 12:29,176.03,71,Pendiente,Sin definir,Sin registrar,Hannah Novak,tool,grocery health
+25/6/2022 07:56,14.25,68,Cancelado,Credit Card,Taipei,Ben Murphy,footwear gear,Sin categoría
+5/3/2022 14:17,10.01,66,Completado,Sin definir,Nairobi,Sam Clark,accessory clothing,Sin categoría
+8/9/2022 10:52,4171.34,61,Pendiente,Bank Transfer,Lisbon,Alice Andersen,book,jewelry grocery
+8/9/2022 10:52,4171.34,61,Pendiente,Bank Transfer,Lisbon,Alice Andersen,book,jewelry grocery
+8/9/2022 10:52,4171.34,61,Pendiente,Bank Transfer,Lisbon,Alice Andersen,book,jewelry grocery
+30/6/2021 10:59,0,66,Cancelado,Credit Card,Cape Town,Tariq Gupta,clothing appliance,Sin categoría
+30/6/2021 10:59,0,66,Cancelado,PayPal,Cape Town,Tariq Gupta,clothing appliance,Sin categoría
+13/1/2021 12:36,1188.89,38,Completado,Credit Card,Prague,Fatima Yilmaz,gadget,jewelry grocery
+13/1/2021 12:36,1188.89,38,Completado,Credit Card,Prague,Fatima Yilmaz,gadget,jewelry grocery
+2/1/2021 16:41,1941.38,41,Pendiente,Bank Transfer,San Diego,Lina Smith,device hardware appliance,software
+2/1/2021 16:41,1941.38,41,Pendiente,Bank Transfer,San Diego,Lina Smith,device hardware appliance,software
+10/9/2022 10:50,494.62,49,Cancelado,PayPal,Berlin,Liam Singh,kitchenware stationery game,Sin categoría
+13/10/2022 13:37,1590.34,60,Completado,Bank Transfer,Stockholm,Selin Schmidt,stationery accessory,jewelry
+13/10/2022 13:37,1590.34,60,Completado,Credit Card,Stockholm,Selin Schmidt,stationery accessory,jewelry
+3/11/2021 08:20,1381.91,49,Pendiente,Credit Card,Oslo,Daniel Chen,kitchenware stationery game,Sin categoría
+3/11/2021 08:20,1381.91,49,Pendiente,PayPal,Oslo,Daniel Chen,kitchenware stationery game,Sin categoría
+12/7/2021 09:22,3899.78,47,Cancelado,Bank Transfer,Copenhagen,Chen Silva,game item furniture,electronics software
+24/2/2021 10:53,595.42,46,Completado,Gift Card,Sin registrar,Ravi Walker,toy,grocery health
+24/2/2021 10:53,595.42,46,Completado,PayPal,Sin registrar,Ravi Walker,toy,grocery health
+6/10/2021 10:51,4852.1,76,Pendiente,Credit Card,Sin registrar,Chloe Diaz,kitchenware appliance,Sin categoría
+4/10/2022 16:54,122.05,66,Cancelado,Sin definir,Sin registrar,Ana Diaz,device hardware appliance,software
+7/8/2021 17:22,488.9,31,Completado,Credit Card,Lima,Lucas Larsen,software game gear,Sin categoría
+7/8/2021 17:22,488.9,31,Completado,Credit Card,Lima,Lucas Larsen,software game gear,Sin categoría
+7/8/2021 17:22,488.9,31,Completado,Credit Card,Lima,Lucas Larsen,software game gear,Sin categoría
+7/8/2021 17:22,488.9,31,Completado,Credit Card,Lima,Lucas Larsen,software game gear,Sin categoría
+23/5/2021 18:25,20.95,52,Pendiente,Sin definir,Helsinki,Yusuf Wagner,stationery accessory,jewelry
+1/7/2022 16:32,4279.79,48,Cancelado,Credit Card,Hamburg,Lena Hansen,clothing appliance,Sin categoría
+1/7/2022 16:32,4279.79,48,Cancelado,Gift Card,Hamburg,Lena Hansen,clothing appliance,Sin categoría
+10/1/2022 10:35,0,63,Completado,Sin definir,Cairo,Chen Miller,accessory clothing,Sin categoría
+2/4/2022 11:20,29.15,59,Pendiente,Credit Card,Helsinki,Lena Weber,device hardware appliance,software
+25/8/2022 09:47,3919.69,54,Cancelado,Credit Card,Helsinki,Amir Reyes,kitchenware stationery game,Sin categoría
+25/8/2022 09:47,3919.69,54,Cancelado,PayPal,Helsinki,Amir Reyes,kitchenware stationery game,Sin categoría
+23/7/2022 16:10,1628.81,52,Completado,Credit Card,Buenos Aires,Liam Martin,widget,electronics software
+22/6/2021 14:48,748.15,49,Pendiente,Credit Card,Mexico City,Ines Cruz,footwear,jewelry grocery
+18/1/2021 08:24,313.55,57,Cancelado,PayPal,Mexico City,Ines Cruz,kitchenware product,software
+1/6/2021 13:03,10.11,31,Completado,PayPal,Chicago,Alice Baker,book,jewelry
+1/6/2021 13:03,10.11,31,Completado,PayPal,Chicago,Alice Baker,book,jewelry
+13/12/2021 15:43,34.38,42,Pendiente,Credit Card,Seoul,Lina Kowalski,clothing appliance book,home beauty
+13/12/2021 15:43,34.38,42,Pendiente,Gift Card,Seoul,Lina Kowalski,clothing appliance book,home beauty
+30/12/2021 12:56,57.47,51,Cancelado,Sin definir,Denver,Noah Mendes,book,jewelry grocery
+13/11/2022 13:44,3836.23,20,Completado,PayPal,Barcelona,Ravi Kim,jewelry,software
+25/1/2022 12:25,4026.44,27,Pendiente,Bank Transfer,Paris,Daniel Johnson,tool,grocery health
+5/8/2022 11:14,18.58,53,Cancelado,Bank Transfer,Toronto,Elena Hassan,item accessory,Sin categoría
+5/8/2022 11:14,18.58,53,Cancelado,Credit Card,Toronto,Elena Hassan,item accessory,Sin categoría
+5/8/2022 11:14,18.58,53,Cancelado,Gift Card,Toronto,Elena Hassan,item accessory,Sin categoría
+5/8/2022 11:14,18.58,53,Cancelado,PayPal,Toronto,Elena Hassan,item accessory,Sin categoría
+27/4/2022 15:38,0,57,Completado,Credit Card,Santiago,Carlos Gomez,footwear gear,Sin categoría
+27/12/2021 08:19,359.98,33,Pendiente,Credit Card,Manchester,Chloe Singh,hardware kitchenware,Sin categoría
+27/12/2021 08:19,359.98,33,Pendiente,Gift Card,Manchester,Chloe Singh,hardware kitchenware,Sin categoría
+27/12/2021 08:19,359.98,33,Pendiente,PayPal,Manchester,Chloe Singh,hardware kitchenware,Sin categoría
+27/12/2021 08:19,359.98,33,Pendiente,PayPal,Manchester,Chloe Singh,hardware kitchenware,Sin categoría
+7/11/2021 13:52,10.1,41,Cancelado,Sin definir,Ankara,Elena Walker,software widget game,grocery toys beauty
+10/12/2022 03:04,12.16,66,Completado,Credit Card,Sin registrar,Laura Mendes,tool kitchenware furniture,software
+5/7/2021 11:13,4024.55,59,Pendiente,Credit Card,Izmir,Sam Kowalski,stationery software,grocery toys beauty
+5/7/2021 11:13,4024.55,59,Pendiente,PayPal,Izmir,Sam Kowalski,stationery software,grocery toys beauty
+16/5/2021 13:52,0,42,Cancelado,Sin definir,Sao Paulo,David Bauer,tool,grocery health
+27/11/2022 13:26,36.0,36,Completado,Credit Card,Paris,Daniel Johnson,jewelry game,accessories furniture
+20/5/2022 09:23,2229.91,26,Pendiente,Credit Card,Hamburg,Hana Hoffmann,stationery,home beauty
+20/5/2022 09:23,2229.91,26,Pendiente,PayPal,Hamburg,Hana Hoffmann,stationery,home beauty
+22/2/2021 06:25,10.06,52,Cancelado,Sin definir,Chicago,Sara Sousa,hardware kitchenware,Sin categoría
+7/2/2022 15:57,4702.73,64,Completado,Sin definir,Paris,Maya Adams,footwear,jewelry grocery
+8/11/2021 14:06,2116.33,53,Pendiente,Credit Card,Munich,Mila Diaz,footwear,jewelry grocery
+18/5/2022 19:51,1766.01,73,Cancelado,PayPal,Hamburg,Emma Wagner,book widget kitchenware,accessories furniture
+19/6/2021 12:17,10.0,44,Completado,Bank Transfer,Austin,Elena Chen,cosmetic,home beauty
+19/6/2021 12:17,10.0,44,Completado,Credit Card,Austin,Elena Chen,cosmetic,home beauty
+19/6/2021 12:17,10.0,44,Completado,Credit Card,Austin,Elena Chen,cosmetic,home beauty
+19/6/2021 12:17,10.0,44,Completado,Credit Card,Austin,Elena Chen,cosmetic,home beauty
+19/6/2021 12:17,10.0,44,Completado,Gift Card,Austin,Elena Chen,cosmetic,home beauty
+19/8/2022 12:40,2957.74,53,Pendiente,Sin definir,Taipei,Ben Murphy,stationery software,grocery toys beauty
+21/8/2021 13:01,17.83,27,Cancelado,Sin definir,Vienna,Pedro Evans,device,jewelry grocery
+3/7/2021 10:22,933.23,31,Completado,Sin definir,Manila,Fatima Wright,product gear,electronics software
+27/1/2022 13:22,889.77,53,Pendiente,Credit Card,Cape Town,Tariq Gupta,tool kitchenware furniture,software
+27/1/2022 13:22,889.77,53,Pendiente,PayPal,Cape Town,Tariq Gupta,tool kitchenware furniture,software
+6/3/2021 11:22,184.07,48,Cancelado,Gift Card,Helsinki,James Ahmed,toy,grocery health
+26/4/2022 11:02,147.45,47,Completado,Sin definir,Singapore,Omar Nguyen,kitchenware product,software
+17/8/2022 15:39,58.35,54,Pendiente,Gift Card,Ankara,Sam Demir,device hardware appliance,software
+11/8/2021 14:04,12.93,54,Cancelado,Credit Card,Hamburg,Hana Hoffmann,clothing appliance book,home beauty
+11/8/2021 14:04,12.93,54,Cancelado,Credit Card,Hamburg,Hana Hoffmann,clothing appliance book,home beauty
+11/8/2021 14:04,12.93,54,Cancelado,Gift Card,Hamburg,Hana Hoffmann,clothing appliance book,home beauty
+9/11/2022 15:59,2122.48,58,Completado,PayPal,Buenos Aires,Liam Martin,book,jewelry grocery
+9/11/2022 15:59,2122.48,58,Completado,PayPal,Buenos Aires,Liam Martin,book,jewelry grocery
+7/10/2022 17:53,31.95,64,Pendiente,Gift Card,Ankara,Felix Brown,hardware kitchenware,Sin categoría
+17/6/2021 11:15,1166.54,26,Cancelado,PayPal,Ankara,Zoe Andersen,hardware kitchenware,Sin categoría
+17/6/2021 11:15,1166.54,26,Cancelado,PayPal,Ankara,Zoe Andersen,hardware kitchenware,Sin categoría
+10/9/2021 10:49,3110.04,44,Completado,Sin definir,Vienna,Isaac Clark,widget gadget gear,grocery health
+17/8/2022 16:02,0,38,Pendiente,Gift Card,Seattle,Ben Clark,stationery accessory,jewelry
+30/1/2021 12:13,1476.38,46,Cancelado,Bank Transfer,Sin registrar,Sara Reyes,appliance cosmetic gear,grocery toys beauty
+30/1/2021 12:13,1476.38,46,Cancelado,Gift Card,Sin registrar,Sara Reyes,appliance cosmetic gear,grocery toys beauty
+25/1/2022 05:49,11.45,81,Completado,Bank Transfer,Manchester,Arjun Rossi,hardware kitchenware,Sin categoría
+25/1/2022 05:49,11.45,81,Completado,PayPal,Manchester,Arjun Rossi,hardware kitchenware,Sin categoría
+3/5/2021 12:45,64.24,33,Pendiente,PayPal,Helsinki,Amir Reyes,footwear hardware item,electronics software
+20/2/2021 09:36,2460.98,82,Cancelado,Bank Transfer,Manchester,Elif Sato,tool kitchenware furniture,software
+20/2/2021 09:36,2460.98,82,Cancelado,Credit Card,Manchester,Elif Sato,tool kitchenware furniture,software
+24/10/2021 12:17,695.02,25,Completado,PayPal,Vancouver,Deniz Vargas,book jewelry,Sin categoría
+14/1/2021 09:27,4863.35,86,Pendiente,Sin definir,Vienna,Pedro Flores,kitchenware stationery game,Sin categoría
+31/12/2022 14:55,2828.29,38,Cancelado,Sin definir,Seattle,Ben Clark,appliance,grocery health
+6/9/2021 09:47,1860.33,46,Completado,Gift Card,Taipei,Julia Gomez,kitchenware stationery game,Sin categoría
+6/9/2021 09:47,1860.33,46,Completado,PayPal,Taipei,Julia Gomez,kitchenware stationery game,Sin categoría
+22/7/2022 16:39,16.76,57,Pendiente,Gift Card,Oslo,Maya Klein,gadget,jewelry grocery
+29/4/2021 15:40,12.28,57,Cancelado,Credit Card,Manila,Jade Davis,hardware,home beauty
+29/4/2021 15:40,12.28,57,Cancelado,PayPal,Manila,Jade Davis,hardware,home beauty
+9/5/2022 16:21,22.0,33,Completado,Sin definir,Mexico City,Ben Almeida,jewelry game,accessories furniture
+23/12/2021 12:11,3563.35,63,Pendiente,Credit Card,Edinburgh,Lena Schneider,software widget game,grocery toys beauty
+27/10/2021 11:46,1532.11,84,Cancelado,Credit Card,Nairobi,Jack Davis,gadget,jewelry grocery
+27/10/2021 11:46,1532.11,84,Cancelado,Credit Card,Nairobi,Jack Davis,gadget,jewelry grocery
+27/10/2021 11:46,1532.11,84,Cancelado,PayPal,Nairobi,Jack Davis,gadget,jewelry grocery
+25/11/2021 10:43,0,51,Completado,Credit Card,Nairobi,Olivia Clark,stationery,software
+14/2/2021 15:45,160.28,41,Pendiente,Credit Card,Cairo,Yusuf Wagner,software widget game,grocery toys beauty
+28/7/2022 19:41,0,15,Cancelado,Sin definir,Sao Paulo,Theo Novak,cosmetic,home beauty
+17/9/2021 11:23,897.52,81,Completado,Sin definir,Bangkok,Hannah Park,stationery accessory,jewelry
+10/9/2022 11:32,91.25,66,Pendiente,Sin definir,Boston,Zara Davis,book,jewelry grocery
+27/6/2022 19:12,10.16,50,Cancelado,Sin definir,Munich,Felix Nguyen,stationery,home beauty
+31/10/2022 14:16,1575.68,69,Completado,Credit Card,Edinburgh,Alice Hassan,stationery accessory,jewelry
+31/10/2022 14:16,1575.68,69,Completado,Gift Card,Edinburgh,Alice Hassan,stationery accessory,jewelry
+18/9/2022 19:52,427.67,58,Pendiente,Sin definir,Lyon,Ruby Moreau,software widget game,grocery toys beauty
+30/5/2021 16:10,3135.53,67,Cancelado,Sin definir,London,Lucas Smith,device hardware appliance,software
+9/8/2021 11:24,0,28,Completado,Sin definir,Singapore,Deniz Yilmaz,accessory clothing,Sin categoría
+23/3/2022 12:26,362.45,55,Pendiente,PayPal,Amsterdam,Mia Mendes,widget,electronics software
+23/3/2022 12:26,362.45,55,Pendiente,PayPal,Amsterdam,Mia Mendes,widget,electronics software
+3/2/2021 16:57,675.98,66,Cancelado,Credit Card,Prague,Priya Lee,clothing appliance book,home beauty
+23/1/2022 13:07,2925.3,52,Completado,Sin definir,Hamburg,Sven Costa,game item clothing,home beauty
+27/10/2022 10:00,2167.42,69,Pendiente,Sin definir,Berlin,Daniel Wang,footwear gear,Sin categoría
+17/8/2021 11:20,82.75,51,Cancelado,Sin definir,Izmir,Sam Kowalski,kitchenware product,software
+22/7/2022 13:04,10.0,74,Completado,Sin definir,Seoul,Lucas Zhang,gadget hardware,software
+6/2/2021 08:14,782.61,45,Pendiente,Gift Card,Singapore,Carlos Miller,toy cosmetic,Sin categoría
+2/1/2021 11:12,1336.28,36,Cancelado,Credit Card,Sydney,Carlos Costa,kitchenware stationery game,Sin categoría
+28/7/2021 14:19,2547.41,57,Completado,Sin definir,Zurich,Ravi Pereira,device,jewelry grocery
+12/2/2022 21:34,1293.3,63,Pendiente,PayPal,Sin registrar,Laura Mendes,jewelry product accessory,electronics software
+11/11/2021 10:49,11.86,77,Cancelado,PayPal,Kyoto,Kai Miller,jewelry product accessory,electronics software
+23/12/2022 13:03,512.17,48,Completado,Credit Card,Mumbai,Fatima Novak,book kitchenware hardware,software
+23/12/2022 13:03,512.17,48,Completado,Credit Card,Mumbai,Fatima Novak,book kitchenware hardware,software
+23/12/2022 13:03,512.17,48,Completado,PayPal,Mumbai,Fatima Novak,book kitchenware hardware,software
+21/7/2022 08:42,4437.29,67,Pendiente,Sin definir,Copenhagen,Karim Wilson,kitchenware stationery game,Sin categoría
+23/9/2021 14:42,10.42,37,Cancelado,Credit Card,Seattle,Daniel Park,appliance,grocery health
+30/5/2021 09:21,89.47,43,Completado,Credit Card,Cairo,Ines Novak,toy cosmetic,Sin categoría
+29/7/2022 17:37,3648.46,48,Pendiente,Bank Transfer,Santiago,Carlos Gomez,tool kitchenware furniture,software
+2/12/2022 14:39,1302.11,35,Cancelado,PayPal,Ankara,Sam Demir,book kitchenware hardware,software
+24/4/2021 13:26,21.32,59,Completado,PayPal,Istanbul,Nadia Murphy,clothing appliance book,home beauty
+21/10/2021 15:53,2416.91,69,Pendiente,Sin definir,Lima,Lucas Larsen,game item furniture,electronics software
+20/11/2022 15:43,3733.03,68,Cancelado,PayPal,Buenos Aires,Lucas Rossi,game jewelry,Sin categoría
+20/11/2022 15:43,3733.03,68,Cancelado,PayPal,Buenos Aires,Lucas Rossi,game jewelry,Sin categoría
+7/8/2021 18:23,510.87,25,Completado,Credit Card,Chicago,Uma Shah,appliance,grocery health
+29/6/2022 10:31,96.27,76,Pendiente,Sin definir,Chicago,Chloe Ibrahim,cosmetic,home beauty
+2/3/2022 09:18,1861.66,39,Cancelado,Bank Transfer,Lyon,Carla Kaya,game widget,grocery toys beauty
+2/3/2022 09:18,1861.66,39,Cancelado,Credit Card,Lyon,Carla Kaya,game widget,grocery toys beauty
+19/9/2021 14:31,56.34,54,Completado,Sin definir,Hamburg,Hana Hoffmann,toy,grocery health
+5/12/2022 10:27,1220.96,32,Pendiente,Credit Card,Oslo,Maya Klein,gadget tool book,jewelry
+13/2/2022 15:44,4209.52,75,Cancelado,Sin definir,Cape Town,Olivia Silva,game widget,grocery toys beauty
+4/1/2022 13:29,137.21,41,Completado,Bank Transfer,Nairobi,Fatima Moreau,toy,grocery health
+4/1/2022 13:29,137.21,41,Completado,Credit Card,Nairobi,Fatima Moreau,toy,grocery health
+22/7/2022 17:30,1594.83,74,Pendiente,Gift Card,Hamburg,Hana Hoffmann,toy cosmetic,Sin categoría
+15/7/2021 09:20,20.91,71,Cancelado,Credit Card,Sin registrar,Zoe Hassan,gear item,Sin categoría
+12/8/2022 15:43,2752.33,46,Completado,Credit Card,Porto,Deniz Lee,software game gear,Sin categoría
+12/8/2022 15:43,2752.33,46,Completado,Gift Card,Porto,Deniz Lee,software game gear,Sin categoría
+28/3/2022 15:49,448.02,50,Pendiente,Credit Card,Hamburg,Emma Wagner,hardware,home beauty
+28/3/2022 15:49,448.02,50,Pendiente,Gift Card,Hamburg,Emma Wagner,hardware,home beauty
+28/3/2022 15:49,448.02,50,Pendiente,PayPal,Hamburg,Emma Wagner,hardware,home beauty
+30/9/2022 09:03,3311.98,33,Cancelado,Gift Card,Bangkok,Amir Pereira,game widget,grocery toys beauty
+13/3/2022 16:09,1838.94,56,Completado,PayPal,Seattle,Ben Clark,stationery accessory,jewelry
+5/5/2021 11:38,162.04,50,Pendiente,Credit Card,London,Diego Ahmed,toy cosmetic,Sin categoría
+5/5/2021 11:38,162.04,50,Pendiente,PayPal,London,Diego Ahmed,toy cosmetic,Sin categoría
+10/11/2022 15:56,14.61,65,Cancelado,Credit Card,Stockholm,Selin Schmidt,hardware,software
+5/1/2021 13:00,606.05,71,Completado,Gift Card,Sao Paulo,Theo Novak,stationery,home beauty
+27/1/2021 11:49,1097.37,43,Pendiente,Sin definir,Seattle,Andre Andersen,footwear gear,Sin categoría
+5/7/2022 17:25,48.48,33,Cancelado,Gift Card,Munich,Andre Miller,kitchenware appliance,Sin categoría
+5/1/2022 15:46,69.33,42,Completado,Credit Card,Cape Town,Noah Larsen,game item furniture,electronics software
+5/1/2022 15:46,69.33,42,Completado,Credit Card,Cape Town,Noah Larsen,game item furniture,electronics software
+5/1/2022 15:46,69.33,42,Completado,PayPal,Cape Town,Noah Larsen,game item furniture,electronics software
+7/1/2021 09:26,678.62,61,Pendiente,Credit Card,Sin registrar,Sara Kaya,device hardware appliance,software
+7/1/2021 09:26,678.62,61,Pendiente,Credit Card,Sin registrar,Sara Kaya,device hardware appliance,software
+16/10/2021 16:18,1149.54,45,Cancelado,Credit Card,Santiago,Mohamed Murphy,item accessory,Sin categoría
+5/11/2022 14:30,2402.85,60,Completado,PayPal,Melbourne,Andre Singh,toy cosmetic,Sin categoría
+19/11/2022 09:23,407.99,76,Pendiente,Sin definir,Budapest,Ivan Hoffmann,item accessory,Sin categoría
+8/2/2021 13:29,1396.9,55,Cancelado,Credit Card,Helsinki,Uma Kowalski,game widget,grocery toys beauty
+27/8/2022 07:21,0,66,Completado,Bank Transfer,Sin registrar,Alice Bauer,game widget,grocery toys beauty
+27/8/2022 07:21,0,66,Completado,Gift Card,Sin registrar,Alice Bauer,game widget,grocery toys beauty
+8/11/2022 17:47,4933.1,42,Pendiente,Gift Card,Sin registrar,Oscar Evans,footwear,jewelry grocery
+7/1/2022 17:16,464.57,35,Cancelado,Bank Transfer,Mexico City,Victor Larsen,gadget hardware,software
+7/1/2022 17:16,464.57,35,Cancelado,Credit Card,Mexico City,Victor Larsen,gadget hardware,software
+22/8/2021 11:04,10.43,51,Completado,Credit Card,Stockholm,Chen Diaz,tool kitchenware furniture,software
+22/5/2022 11:08,3650.62,32,Pendiente,Sin definir,Lima,Lucas Larsen,footwear,jewelry grocery
+4/6/2021 15:49,17.45,52,Cancelado,Sin definir,Izmir,Sam Kowalski,game item clothing,home beauty
+13/10/2021 09:27,1116.07,44,Completado,Bank Transfer,San Diego,Omar Smith,footwear hardware item,electronics software
+13/10/2021 09:27,1116.07,44,Completado,Credit Card,San Diego,Omar Smith,footwear hardware item,electronics software
+26/9/2022 12:40,1621.9,59,Pendiente,Sin definir,Bogota,Omar Wilson,tool cosmetic,electronics software
+6/5/2021 14:37,2418.32,70,Cancelado,Credit Card,Buenos Aires,Lucas Rossi,tool kitchenware furniture,software
+16/6/2022 05:50,390.39,43,Completado,Sin definir,Stockholm,Chen Diaz,widget gadget gear,grocery health
+2/9/2021 19:15,0,53,Pendiente,Gift Card,Paris,Rafael Ruiz,widget,electronics software
+2/9/2021 19:15,0,53,Pendiente,PayPal,Paris,Rafael Ruiz,widget,electronics software
+11/10/2021 10:25,2705.38,22,Cancelado,Credit Card,San Diego,Elif Kumar,item accessory,Sin categoría
+11/10/2021 10:25,2705.38,22,Cancelado,Gift Card,San Diego,Elif Kumar,item accessory,Sin categoría
+11/10/2021 10:25,2705.38,22,Cancelado,PayPal,San Diego,Elif Kumar,item accessory,Sin categoría
+3/5/2022 03:25,0,46,Completado,Bank Transfer,Seoul,Liam Castro,stationery,software
+13/5/2022 23:15,2849.54,51,Pendiente,Sin definir,Sin registrar,Selin Cruz,jewelry product accessory,electronics software
+28/4/2022 17:25,10.06,67,Cancelado,Credit Card,Singapore,Carlos Miller,jewelry,software
+28/4/2022 17:25,10.06,67,Cancelado,Credit Card,Singapore,Carlos Miller,jewelry,software
+8/6/2021 11:37,100.02,31,Completado,Credit Card,Denver,Theo Cruz,gadget hardware,software
+8/6/2021 11:37,100.02,31,Completado,PayPal,Denver,Theo Cruz,gadget hardware,software
+14/10/2022 10:32,429.12,41,Pendiente,Sin definir,Nairobi,Sam Clark,gadget,jewelry grocery
+30/11/2022 14:12,388.25,55,Cancelado,Sin definir,Munich,Sofia Becker,book,jewelry grocery
+30/1/2022 14:23,258.09,69,Completado,Gift Card,Manila,Jade Davis,book,jewelry grocery
+30/1/2022 14:23,258.09,69,Completado,PayPal,Manila,Jade Davis,book,jewelry grocery
+10/9/2022 17:32,706.51,52,Pendiente,Credit Card,Hamburg,Lena Hansen,product gear,electronics software
+10/9/2022 17:32,706.51,52,Pendiente,Gift Card,Hamburg,Lena Hansen,product gear,electronics software
+10/9/2022 17:32,706.51,52,Pendiente,Gift Card,Hamburg,Lena Hansen,product gear,electronics software
+29/3/2021 13:44,373.22,31,Cancelado,Credit Card,San Diego,Elif Kumar,widget gadget gear,grocery health
+16/12/2022 15:15,0,32,Completado,PayPal,Helsinki,Priya Walker,stationery,software
+30/1/2022 14:50,440.92,58,Pendiente,Sin definir,Sydney,Carlos Costa,tool cosmetic,electronics software
+22/9/2021 14:11,2439.8,65,Cancelado,Sin definir,Oslo,Carlos Vargas,appliance,grocery health
+24/5/2021 15:05,157.46,36,Completado,Sin definir,Porto,Rafael Andersen,hardware,software
+1/1/2021 16:43,1793.13,61,Pendiente,Sin definir,Mexico City,Fatima Adams,jewelry product accessory,electronics software
+10/6/2022 13:20,1269.48,33,Cancelado,PayPal,Prague,Marco Miller,gadget tool book,jewelry
+10/6/2022 13:20,1269.48,33,Cancelado,PayPal,Prague,Marco Miller,gadget tool book,jewelry
+27/8/2022 09:16,0,48,Completado,PayPal,Bangkok,Oscar Becker,hardware,software
+23/6/2022 09:03,1119.03,46,Pendiente,Credit Card,Lima,Andre Gupta,kitchenware product,software
+23/6/2022 09:03,1119.03,46,Pendiente,Gift Card,Lima,Andre Gupta,kitchenware product,software
+17/4/2022 12:06,10.0,44,Cancelado,PayPal,Dublin,Pedro Ruiz,game jewelry,Sin categoría
+4/4/2021 10:02,392.46,66,Completado,Credit Card,Seattle,Andre Andersen,game widget,grocery toys beauty
+4/4/2021 10:02,392.46,66,Completado,Credit Card,Seattle,Andre Andersen,game widget,grocery toys beauty
+24/11/2022 06:20,3896.0,43,Pendiente,Sin definir,Manila,Julia Martin,gadget,jewelry grocery
+20/12/2022 10:38,1597.59,52,Cancelado,Sin definir,Mexico City,Victor Larsen,tool,grocery health
+1/9/2021 16:12,1061.59,36,Completado,Credit Card,Istanbul,Ethan Cruz,jewelry product accessory,electronics software
+14/12/2022 12:24,0,58,Pendiente,Gift Card,Helsinki,James Ahmed,clothing appliance,Sin categoría
+14/4/2022 22:23,1274.2,64,Cancelado,Sin definir,Berlin,Ivan Pereira,gadget tool book,jewelry
+22/5/2021 11:26,3281.17,39,Completado,Credit Card,Sin registrar,Laura Mendes,game jewelry,Sin categoría
+17/12/2022 20:17,105.12,62,Pendiente,Credit Card,Mumbai,Fatima Novak,toy,grocery health
+17/12/2022 20:17,105.12,62,Pendiente,Credit Card,Mumbai,Fatima Novak,toy,grocery health
+17/12/2022 20:17,105.12,62,Pendiente,PayPal,Mumbai,Fatima Novak,toy,grocery health
+11/10/2021 17:53,1012.5,59,Cancelado,Sin definir,Paris,Maya Adams,book tool,jewelry
+8/8/2021 16:45,1583.28,63,Completado,Credit Card,Izmir,Ivan Martin,appliance cosmetic gear,grocery toys beauty
+10/3/2022 07:01,546.21,26,Pendiente,PayPal,Austin,Victor Gomez,game item furniture,electronics software
+3/12/2021 04:17,0,47,Cancelado,Sin definir,Vancouver,Alice Tanaka,footwear,jewelry grocery
+6/10/2021 17:17,1159.63,56,Completado,Sin definir,Sin registrar,Mohamed Ruiz,kitchenware appliance,Sin categoría
+9/2/2021 13:31,669.0,35,Pendiente,Credit Card,Sin registrar,Ravi Walker,book tool,jewelry
+9/2/2021 13:31,669.0,35,Pendiente,PayPal,Sin registrar,Ravi Walker,book tool,jewelry
+8/11/2022 11:58,1059.29,39,Cancelado,Sin definir,Sydney,Carlos Costa,device,jewelry grocery
+17/10/2021 12:52,23.38,50,Completado,Credit Card,Chicago,Uma Shah,clothing appliance,Sin categoría
+17/10/2021 12:52,23.38,50,Completado,PayPal,Chicago,Uma Shah,clothing appliance,Sin categoría
+20/10/2021 21:37,0,48,Pendiente,Credit Card,Singapore,Omar Nguyen,stationery accessory,jewelry
+20/10/2021 21:37,0,48,Pendiente,Credit Card,Singapore,Omar Nguyen,stationery accessory,jewelry
+20/10/2021 21:37,0,48,Pendiente,PayPal,Singapore,Omar Nguyen,stationery accessory,jewelry
+20/10/2021 21:37,0,48,Pendiente,PayPal,Singapore,Omar Nguyen,stationery accessory,jewelry
+7/5/2021 10:16,1371.92,58,Cancelado,Gift Card,Sydney,Sara Kaya,clothing appliance,Sin categoría
+7/5/2021 10:16,1371.92,58,Cancelado,PayPal,Sydney,Sara Kaya,clothing appliance,Sin categoría
+19/2/2022 11:55,1485.53,53,Completado,Sin definir,Paris,Nina Hassan,jewelry product accessory,electronics software
+31/12/2021 17:47,3670.91,77,Pendiente,Credit Card,Porto,Ruby Castro,jewelry game,accessories furniture
+18/11/2022 07:42,10.21,60,Cancelado,Sin definir,Hamburg,Lena Hansen,jewelry game,accessories furniture
+12/8/2021 09:05,10.0,81,Completado,Sin definir,London,Yara Garcia,cosmetic,home beauty
+2/2/2021 16:00,4693.46,48,Pendiente,Credit Card,Oslo,Mateo Clark,book widget kitchenware,accessories furniture
+4/6/2021 09:40,869.08,65,Cancelado,Sin definir,Seoul,Lina Kowalski,gadget product jewelry,jewelry grocery
+5/11/2022 20:49,2237.6,74,Completado,PayPal,Sydney,Carlos Costa,hardware,home beauty
+30/9/2022 19:05,2263.85,53,Pendiente,Gift Card,Chicago,Sara Sousa,product gear,electronics software
+30/9/2022 19:05,2263.85,53,Pendiente,PayPal,Chicago,Sara Sousa,product gear,electronics software
+18/1/2022 14:44,838.25,29,Cancelado,PayPal,Seoul,Lucas Zhang,game jewelry,Sin categoría
+30/1/2022 15:35,1274.86,44,Completado,Sin definir,Sin registrar,Mohamed Ruiz,product gear,electronics software
+10/10/2022 09:00,99.51,20,Pendiente,Credit Card,Stockholm,Sam Silva,toy cosmetic,Sin categoría
+6/4/2022 14:28,289.01,59,Cancelado,Credit Card,Stockholm,Nour Singh,hardware,software
+6/4/2022 14:28,289.01,59,Cancelado,PayPal,Stockholm,Nour Singh,hardware,software
+6/9/2021 12:15,2635.07,51,Completado,Gift Card,Vancouver,Ravi Torres,tool cosmetic,electronics software
+6/9/2021 12:15,2635.07,51,Completado,PayPal,Vancouver,Ravi Torres,tool cosmetic,electronics software
+27/5/2021 08:45,0,62,Pendiente,Bank Transfer,Paris,Daniel Johnson,accessory clothing,Sin categoría
+23/2/2022 17:24,1663.82,59,Cancelado,Bank Transfer,Nairobi,Sam Clark,device hardware appliance,software
+23/2/2022 17:24,1663.82,59,Cancelado,PayPal,Nairobi,Sam Clark,device hardware appliance,software
+25/1/2022 15:47,87.39,24,Completado,Credit Card,Paris,Nina Hassan,cosmetic,home beauty
+25/1/2022 15:47,87.39,24,Completado,PayPal,Paris,Nina Hassan,cosmetic,home beauty
+25/1/2022 15:47,87.39,24,Completado,PayPal,Paris,Nina Hassan,cosmetic,home beauty
+3/12/2021 03:59,752.49,64,Pendiente,Gift Card,Berlin,Liam Singh,footwear,jewelry grocery
+12/12/2022 12:01,2527.18,31,Cancelado,Bank Transfer,Santiago,Mohamed Murphy,stationery,software
+12/12/2022 12:01,2527.18,31,Cancelado,Bank Transfer,Santiago,Mohamed Murphy,stationery,software
+21/9/2022 15:32,4618.89,54,Completado,Sin definir,Stockholm,Nour Singh,software game gear,Sin categoría
+6/5/2022 10:35,35.34,46,Pendiente,Sin definir,Hamburg,Sven Costa,clothing appliance,Sin categoría
+29/6/2021 12:25,37.45,29,Cancelado,Sin definir,Singapore,Nour Wagner,stationery,software
+26/2/2022 18:59,1004.92,50,Completado,Sin definir,Munich,Mohamed Davis,cosmetic,home beauty
+27/11/2021 11:29,62.89,45,Pendiente,Sin definir,Hamburg,Emma Wagner,software game gear,Sin categoría
+3/1/2022 10:29,981.98,78,Cancelado,Sin definir,Nairobi,Felix Lopez,gadget tool book,jewelry
+3/7/2021 10:00,1882.96,40,Completado,Sin definir,Sin registrar,Mohamed Ruiz,book tool,jewelry
+10/10/2021 22:38,456.71,34,Pendiente,Sin definir,Paris,Laura Andersen,gadget hardware,software
+24/5/2022 08:25,3220.1,33,Cancelado,Sin definir,Barcelona,Nour Rossi,clothing appliance book,home beauty
+12/1/2022 17:11,135.13,49,Completado,Sin definir,Manila,Karim Flores,device hardware appliance,software
+3/5/2021 14:55,10.3,67,Pendiente,Gift Card,Buenos Aires,Lucas Rossi,widget,electronics software
+3/5/2021 14:55,10.3,67,Pendiente,PayPal,Buenos Aires,Lucas Rossi,widget,electronics software
+30/3/2022 15:25,1890.43,45,Cancelado,Sin definir,Munich,Ravi Oliveira,toy cosmetic,Sin categoría
+25/3/2021 15:00,1331.39,58,Completado,PayPal,Paris,Felix Garcia,product gear,electronics software
+8/5/2022 08:05,0,34,Pendiente,Credit Card,Delhi,Hana Garcia,appliance,grocery health
+29/6/2021 20:34,1596.55,52,Cancelado,Sin definir,Hamburg,Hana Hoffmann,jewelry game,accessories furniture
+10/11/2022 15:09,1454.05,35,Completado,Credit Card,Delhi,Victor Costa,jewelry game,accessories furniture
+10/11/2022 15:09,1454.05,35,Completado,PayPal,Delhi,Victor Costa,jewelry game,accessories furniture
+21/6/2022 06:55,2635.67,54,Pendiente,Sin definir,Dublin,Priya Park,footwear,jewelry grocery
+25/2/2022 09:28,0,14,Cancelado,Sin definir,Berlin,Daniel Wang,game widget,grocery toys beauty
+16/3/2022 10:12,3417.4,70,Completado,PayPal,Berlin,Daniel Wang,clothing appliance,Sin categoría
+11/9/2021 12:14,555.62,34,Pendiente,Sin definir,Denver,Maja Zhang,book,jewelry
+3/2/2022 12:16,0,41,Cancelado,Sin definir,Sin registrar,Ravi Walker,tool kitchenware furniture,software
+19/1/2021 12:01,1001.52,40,Completado,Sin definir,Porto,Rafael Andersen,game item clothing,home beauty
+10/5/2021 13:37,19.32,31,Pendiente,Credit Card,Manila,Fatima Wright,kitchenware stationery game,Sin categoría
+10/5/2021 13:37,19.32,31,Pendiente,Credit Card,Manila,Fatima Wright,kitchenware stationery game,Sin categoría
+7/9/2022 15:58,28.45,40,Cancelado,Credit Card,Jakarta,Mateo Shah,stationery,home beauty
+13/7/2021 11:12,275.3,60,Completado,PayPal,Porto,Rafael Andersen,stationery software,grocery toys beauty
+15/2/2021 13:08,3891.03,53,Pendiente,Credit Card,Oslo,Mateo Clark,hardware,home beauty
+29/3/2022 10:19,72.86,33,Cancelado,Credit Card,Ankara,Felix Brown,stationery,home beauty
+29/3/2022 10:19,72.86,33,Cancelado,Credit Card,Ankara,Felix Brown,stationery,home beauty
+24/7/2022 15:20,1782.28,48,Completado,PayPal,Amsterdam,Mia Mendes,clothing appliance book,home beauty
+25/3/2022 12:48,638.62,49,Pendiente,PayPal,Nairobi,Sam Clark,item accessory,Sin categoría
+29/3/2021 10:05,53.67,59,Cancelado,Credit Card,Istanbul,Ethan Cruz,toy,grocery health
+15/10/2022 05:05,232.5,42,Completado,Credit Card,Oslo,Carlos Vargas,widget gadget gear,grocery health
+15/10/2022 05:05,232.5,42,Completado,Gift Card,Oslo,Carlos Vargas,widget gadget gear,grocery health
+26/1/2022 12:16,91.13,44,Pendiente,Credit Card,Jakarta,Lina Gomez,device,jewelry grocery
+18/1/2022 18:07,68.14,35,Cancelado,PayPal,Oslo,Fatima Wang,book tool,jewelry
+31/5/2022 15:21,15.52,49,Completado,Sin definir,Cape Town,Paula Flores,item accessory,Sin categoría
+22/12/2021 17:27,245.65,52,Pendiente,Gift Card,Istanbul,Ethan Cruz,kitchenware stationery game,Sin categoría
+24/1/2022 07:18,157.19,63,Cancelado,Sin definir,Helsinki,Carla Chen,game item clothing,home beauty
+20/9/2022 16:16,32.46,29,Completado,Credit Card,Berlin,Liam Singh,hardware,home beauty
+20/9/2022 16:16,32.46,29,Completado,PayPal,Berlin,Liam Singh,hardware,home beauty
+4/8/2021 16:45,990.45,68,Pendiente,Sin definir,Oslo,Mateo Clark,tool kitchenware furniture,software
+9/4/2022 10:30,2782.06,45,Cancelado,Credit Card,Denver,Maja Zhang,stationery,software
+9/4/2022 10:30,2782.06,45,Cancelado,Credit Card,Denver,Maja Zhang,stationery,software
+9/4/2022 10:30,2782.06,45,Cancelado,PayPal,Denver,Maja Zhang,stationery,software
+2/3/2022 15:25,2076.51,32,Completado,Bank Transfer,Chicago,Uma Shah,item accessory,Sin categoría
+2/3/2022 15:25,2076.51,32,Completado,Gift Card,Chicago,Uma Shah,item accessory,Sin categoría
+14/6/2022 14:37,479.13,66,Pendiente,Sin definir,Austin,Jonas Hoffmann,book,jewelry grocery
+22/1/2022 12:57,1648.63,64,Cancelado,Sin definir,Jakarta,Hannah Sousa,gadget tool book,jewelry
+12/1/2021 10:04,1075.24,45,Completado,Sin definir,Nairobi,Felix Lopez,tool kitchenware furniture,software
+18/7/2021 10:46,1622.51,71,Pendiente,Credit Card,Buenos Aires,Elif Larsen,book kitchenware hardware,software
+18/7/2021 10:46,1622.51,71,Pendiente,PayPal,Buenos Aires,Elif Larsen,book kitchenware hardware,software
+12/1/2021 11:31,11.15,34,Cancelado,PayPal,Denver,Maja Zhang,game jewelry,Sin categoría
+29/1/2022 08:59,2706.66,27,Completado,Credit Card,Santiago,Liam Ibrahim,device hardware appliance,software
+30/11/2022 09:20,3335.0,58,Pendiente,Sin definir,Helsinki,Priya Walker,kitchenware appliance,Sin categoría
+29/1/2021 09:41,86.05,63,Cancelado,Credit Card,Lyon,Carla Kaya,kitchenware stationery game,Sin categoría
+14/12/2021 15:12,443.48,66,Completado,Credit Card,Seoul,Ivan Carter,gadget,jewelry grocery
+12/1/2021 08:00,178.69,45,Pendiente,Credit Card,Barcelona,Ravi Kim,tool cosmetic,electronics software
+3/10/2022 01:32,36.13,56,Cancelado,PayPal,London,Yara Garcia,device hardware appliance,software
+7/4/2022 12:10,25.15,27,Completado,Bank Transfer,Buenos Aires,Elif Larsen,clothing appliance book,home beauty
+7/4/2022 12:10,25.15,27,Completado,PayPal,Buenos Aires,Elif Larsen,clothing appliance book,home beauty
+28/9/2021 19:43,62.73,40,Pendiente,Sin definir,Cairo,Ines Novak,book,jewelry
+23/3/2022 16:19,100.39,73,Cancelado,Sin definir,Lyon,Carla Kaya,tool kitchenware furniture,software
+18/3/2021 15:21,0,57,Completado,Sin definir,Berlin,Liam Singh,gadget tool book,jewelry
+29/8/2021 14:20,13.55,54,Pendiente,Sin definir,Copenhagen,Chen Silva,jewelry game,accessories furniture
+7/12/2022 13:45,4828.38,71,Cancelado,Sin definir,London,Lucas Smith,gadget hardware,software
+24/1/2022 17:20,203.37,84,Completado,Credit Card,Lisbon,Alice Andersen,footwear gear,Sin categoría
+24/1/2022 17:20,203.37,84,Completado,Credit Card,Lisbon,Alice Andersen,footwear gear,Sin categoría
+24/1/2022 17:20,203.37,84,Completado,Credit Card,Lisbon,Alice Andersen,footwear gear,Sin categoría
+20/5/2021 15:08,10.25,42,Pendiente,Sin definir,Munich,Hannah Kowalski,jewelry product accessory,electronics software
+10/1/2021 15:49,2131.22,65,Cancelado,Credit Card,Bogota,Wei Vargas,gadget,jewelry grocery
+1/1/2023 09:18,10.03,56,Completado,Gift Card,Jakarta,Lina Gomez,footwear,jewelry grocery
+8/8/2022 02:45,3226.07,16,Pendiente,Sin definir,Lyon,Amir Patel,software widget game,grocery toys beauty
+28/2/2022 11:22,360.47,38,Cancelado,Credit Card,Sin registrar,Amir Hansen,kitchenware appliance,Sin categoría
+4/7/2022 19:27,4018.08,32,Completado,Credit Card,Bogota,Chen Lopez,product gear,electronics software
+14/6/2022 13:24,10.0,73,Pendiente,Credit Card,Buenos Aires,Liam Martin,book kitchenware hardware,software
+11/12/2021 13:07,390.39,35,Cancelado,Sin definir,Copenhagen,Karim Wilson,widget gadget gear,grocery health
+8/2/2021 09:22,898.63,32,Completado,Sin definir,Santiago,Liam Ibrahim,toy cosmetic,Sin categoría
+29/6/2022 09:28,15.61,27,Pendiente,Credit Card,Seattle,Daniel Park,widget gadget gear,grocery health
+26/4/2022 15:32,18.32,33,Cancelado,Sin definir,Sin registrar,Hannah Novak,stationery software,grocery toys beauty
+11/3/2022 10:15,82.57,51,Completado,Credit Card,Barcelona,Ravi Kim,clothing appliance book,home beauty
+11/3/2022 10:15,82.57,51,Completado,PayPal,Barcelona,Ravi Kim,clothing appliance book,home beauty
+11/3/2022 10:15,82.57,51,Completado,PayPal,Barcelona,Ravi Kim,clothing appliance book,home beauty
+3/1/2022 02:35,821.98,57,Pendiente,Credit Card,Munich,Hannah Kowalski,footwear hardware item,electronics software
+29/5/2021 11:18,1063.47,76,Cancelado,Credit Card,Nairobi,Priya Reyes,toy,grocery health
+29/5/2021 11:18,1063.47,76,Cancelado,Gift Card,Nairobi,Priya Reyes,toy,grocery health
+1/10/2021 12:52,0,69,Completado,Sin definir,Bangkok,Amir Pereira,appliance,grocery health
+22/11/2021 13:50,271.35,64,Pendiente,Credit Card,Vancouver,Carla Hughes,software game gear,Sin categoría
+22/11/2021 13:50,271.35,64,Pendiente,Gift Card,Vancouver,Carla Hughes,software game gear,Sin categoría
+22/6/2021 09:57,3535.93,44,Cancelado,Sin definir,London,Lucas Smith,footwear gear,Sin categoría
+28/10/2022 08:03,950.31,55,Completado,Bank Transfer,Prague,Fatima Yilmaz,game item clothing,home beauty
+28/10/2022 08:03,950.31,55,Completado,Credit Card,Prague,Fatima Yilmaz,game item clothing,home beauty
+9/7/2022 16:00,16.19,44,Pendiente,Sin definir,Sin registrar,Selin Cruz,software game gear,Sin categoría
+6/3/2022 20:43,2017.37,35,Cancelado,Credit Card,Helsinki,Carla Chen,gadget hardware,software
+6/3/2022 20:43,2017.37,35,Cancelado,Credit Card,Helsinki,Carla Chen,gadget hardware,software
+3/6/2021 21:42,1572.3,63,Completado,Gift Card,Mexico City,Fatima Adams,tool cosmetic,electronics software
+19/6/2022 14:05,4969.37,65,Pendiente,Sin definir,Barcelona,Nour Rossi,device,jewelry grocery
+14/11/2021 10:40,3385.81,48,Cancelado,Credit Card,Vienna,Isaac Clark,hardware,software
+14/11/2021 10:40,3385.81,48,Cancelado,Gift Card,Vienna,Isaac Clark,hardware,software
+26/4/2021 10:32,0,63,Completado,Bank Transfer,Nairobi,Jack Davis,kitchenware appliance,Sin categoría
+26/4/2021 10:32,0,63,Completado,Gift Card,Nairobi,Jack Davis,kitchenware appliance,Sin categoría
+26/4/2021 10:32,0,63,Completado,PayPal,Nairobi,Jack Davis,kitchenware appliance,Sin categoría
+18/7/2021 11:55,0,66,Pendiente,Credit Card,Chicago,Kai Weber,hardware kitchenware,Sin categoría
+18/7/2021 11:55,0,66,Pendiente,Gift Card,Chicago,Kai Weber,hardware kitchenware,Sin categoría
+11/3/2021 11:01,199.09,40,Cancelado,Gift Card,Sydney,Mateo Adams,gadget tool book,jewelry
+24/8/2021 09:26,83.77,58,Completado,Credit Card,Chicago,Kai Weber,toy,grocery health
+24/8/2021 09:26,83.77,58,Completado,Gift Card,Chicago,Kai Weber,toy,grocery health
+1/11/2021 13:08,1214.29,65,Pendiente,Bank Transfer,Sydney,Carlos Costa,hardware kitchenware,Sin categoría
+5/7/2022 10:17,371.99,67,Cancelado,Sin definir,Bogota,Mateo Johnson,book,jewelry grocery
+28/8/2022 14:34,263.13,57,Completado,Sin definir,Budapest,Ivan Hoffmann,widget gadget gear,grocery health
+30/9/2021 11:56,160.0,45,Pendiente,Sin definir,Melbourne,Andre Singh,hardware,software
+25/3/2021 14:16,76.78,46,Cancelado,PayPal,Munich,Rosa Wang,clothing appliance book,home beauty
+7/9/2021 08:09,1075.38,42,Completado,Sin definir,Sin registrar,Mohamed Ruiz,gadget,jewelry grocery
+5/10/2022 08:05,711.57,56,Pendiente,Sin definir,Ankara,Zoe Andersen,book widget kitchenware,accessories furniture
+4/8/2021 11:13,0,32,Cancelado,Gift Card,Munich,Ravi Oliveira,product gear,electronics software
+4/12/2022 02:57,2907.11,55,Completado,Sin definir,Taipei,Ben Murphy,product gear,electronics software
+7/5/2022 16:56,12.5,45,Pendiente,Sin definir,Buenos Aires,Elif Larsen,gadget tool book,jewelry
+16/1/2022 11:50,0,53,Cancelado,Sin definir,Manila,Fatima Wright,toy,grocery health
+21/1/2021 17:49,17.1,44,Completado,Gift Card,Sin registrar,Ana Diaz,item accessory,Sin categoría
+11/9/2022 13:38,196.35,29,Pendiente,Sin definir,Sin registrar,Nour Fischer,device,jewelry grocery
+25/7/2022 09:00,0,65,Cancelado,Credit Card,Hamburg,Hana Hoffmann,device hardware appliance,software
+17/10/2022 09:24,42.68,40,Completado,Gift Card,Edinburgh,Alice Hassan,clothing appliance,Sin categoría
+17/10/2022 09:24,42.68,40,Completado,PayPal,Edinburgh,Alice Hassan,clothing appliance,Sin categoría
+10/12/2021 11:14,10.09,44,Pendiente,Sin definir,Barcelona,Ethan Demir,gadget tool book,jewelry
+2/12/2021 14:53,0,39,Cancelado,Sin definir,Sin registrar,Zoe Hassan,appliance cosmetic gear,grocery toys beauty
+4/7/2021 09:36,2754.01,72,Completado,Sin definir,Singapore,Carlos Miller,game widget,grocery toys beauty
+24/9/2021 12:54,2341.94,40,Pendiente,Sin definir,Prague,Marco Miller,software game gear,Sin categoría
+28/1/2022 09:29,10.01,63,Cancelado,Sin definir,Seoul,Liam Castro,stationery,home beauty
+26/3/2021 16:03,48.85,28,Completado,Bank Transfer,Manila,Karim Flores,footwear,jewelry grocery
+26/3/2021 16:03,48.85,28,Completado,Credit Card,Manila,Karim Flores,footwear,jewelry grocery
+21/7/2022 12:08,0,55,Pendiente,Credit Card,Cairo,Isaac Khan,appliance cosmetic gear,grocery toys beauty
+17/7/2021 11:30,15.02,26,Cancelado,Sin definir,Toronto,Elena Hassan,toy cosmetic,Sin categoría
+5/4/2021 22:53,10.03,83,Completado,Gift Card,Copenhagen,Chen Silva,device,jewelry grocery
+5/4/2021 22:53,10.03,83,Completado,Gift Card,Copenhagen,Chen Silva,device,jewelry grocery
+10/9/2022 15:34,938.01,56,Pendiente,Credit Card,Vancouver,Alice Tanaka,device,jewelry grocery
+18/3/2022 13:49,11.76,61,Cancelado,Credit Card,Bangkok,Amir Pereira,book jewelry,Sin categoría
+20/6/2022 16:02,1699.73,32,Completado,Credit Card,Sin registrar,Hannah Novak,tool kitchenware furniture,software
+20/6/2022 16:02,1699.73,32,Completado,Gift Card,Sin registrar,Hannah Novak,tool kitchenware furniture,software
+27/2/2021 14:12,476.02,40,Pendiente,Sin definir,Sin registrar,Daniel Bennett,stationery software,grocery toys beauty
+6/6/2021 16:25,0,58,Cancelado,PayPal,Vancouver,Deniz Vargas,footwear hardware item,electronics software
+6/10/2022 10:53,10.01,27,Completado,Gift Card,Sin registrar,Sara Kaya,game jewelry,Sin categoría
+31/5/2021 12:37,18.71,41,Pendiente,Credit Card,Singapore,Nour Wagner,gadget,jewelry grocery
+31/5/2021 12:37,18.71,41,Pendiente,Credit Card,Singapore,Nour Wagner,gadget,jewelry grocery
+13/5/2022 07:48,0,44,Cancelado,PayPal,Vienna,Uma Shah,toy cosmetic,Sin categoría
+13/5/2022 07:48,0,44,Cancelado,PayPal,Vienna,Uma Shah,toy cosmetic,Sin categoría
+19/10/2022 13:59,0,45,Completado,Credit Card,Berlin,Sam Mendes,jewelry game,accessories furniture
+19/10/2022 13:59,0,45,Completado,Credit Card,Berlin,Sam Mendes,jewelry game,accessories furniture
+11/12/2021 13:13,548.19,30,Pendiente,Sin definir,Buenos Aires,Elif Larsen,jewelry product accessory,electronics software
+16/5/2022 14:24,1451.83,25,Cancelado,Gift Card,Manila,Fatima Wright,kitchenware product,software
+16/9/2022 21:48,4605.78,55,Completado,Sin definir,Singapore,Nour Wagner,gadget tool book,jewelry
+17/1/2021 12:29,0,30,Pendiente,Sin definir,Zurich,Ruby Bauer,book widget kitchenware,accessories furniture
+18/5/2022 14:16,454.02,52,Cancelado,Credit Card,Milan,Liam Moreau,book,jewelry
+18/5/2022 14:16,454.02,52,Cancelado,Credit Card,Milan,Liam Moreau,book,jewelry
+27/2/2021 15:37,272.42,53,Completado,PayPal,Buenos Aires,Lucas Rossi,toy cosmetic,Sin categoría
+19/4/2022 16:04,2469.39,53,Pendiente,Bank Transfer,Mexico City,Ines Cruz,stationery,home beauty
+19/4/2022 16:04,2469.39,53,Pendiente,Credit Card,Mexico City,Ines Cruz,stationery,home beauty
+10/4/2022 15:53,4795.69,77,Cancelado,Gift Card,Helsinki,James Ahmed,item accessory,Sin categoría
+28/10/2021 18:43,791.23,40,Completado,Sin definir,Cairo,Ines Novak,tool kitchenware furniture,software
+8/12/2021 09:59,51.73,24,Pendiente,Sin definir,Barcelona,Ravi Kim,cosmetic,home beauty
+12/2/2021 09:36,397.51,42,Cancelado,Sin definir,Sin registrar,Hannah Kumar,hardware,home beauty
+19/7/2022 16:47,0,54,Completado,Sin definir,Delhi,Hana Garcia,gadget tool book,jewelry
+4/10/2022 10:15,3066.19,57,Pendiente,Sin definir,Seattle,Ben Clark,game widget,grocery toys beauty
+11/5/2022 16:11,932.26,58,Cancelado,Sin definir,Manila,Julia Martin,tool cosmetic,electronics software
+16/12/2022 09:39,49.04,54,Completado,Sin definir,Sydney,Sara Kaya,gadget hardware,software
+2/12/2021 13:06,10.13,53,Pendiente,Sin definir,Sydney,Sara Kaya,jewelry,software
+5/9/2021 08:45,0,25,Cancelado,Credit Card,Toronto,Mila Garcia,accessory clothing,Sin categoría
+20/10/2022 11:46,470.25,37,Completado,Sin definir,Paris,Nina Hassan,book widget kitchenware,accessories furniture
+2/10/2022 17:51,2754.31,66,Pendiente,Sin definir,Buenos Aires,Elif Larsen,cosmetic,home beauty
+26/7/2022 09:23,339.01,66,Cancelado,Sin definir,Taipei,Julia Gomez,jewelry product accessory,electronics software
+18/11/2022 09:49,157.5,49,Completado,Credit Card,Manchester,Marco Schneider,tool kitchenware furniture,software
+8/1/2022 13:25,16.92,24,Pendiente,Credit Card,Zurich,Ravi Pereira,toy cosmetic,Sin categoría
+6/6/2021 14:52,4332.98,66,Cancelado,PayPal,Nairobi,Priya Reyes,jewelry,software
+24/6/2021 15:22,839.61,40,Completado,Sin definir,Manila,Ibrahim Young,software game gear,Sin categoría
+30/11/2021 14:36,55.62,49,Pendiente,PayPal,Sin registrar,Maja Ruiz,gadget tool book,jewelry
+15/3/2021 13:39,255.46,22,Cancelado,Credit Card,Cape Town,Olivia Silva,tool kitchenware furniture,software
+24/10/2022 09:53,10.1,40,Completado,Sin definir,Austin,Jonas Hoffmann,clothing appliance book,home beauty
+8/8/2022 14:03,1529.51,25,Pendiente,Credit Card,Jakarta,Lina Gomez,hardware kitchenware,Sin categoría
+8/8/2022 14:03,1529.51,25,Pendiente,Gift Card,Jakarta,Lina Gomez,hardware kitchenware,Sin categoría
+14/10/2022 12:44,2758.76,37,Cancelado,Sin definir,Paris,Nina Hassan,gadget,jewelry grocery
+6/5/2021 16:25,159.32,37,Completado,Gift Card,Sin registrar,Carlos Castro,hardware,home beauty
+1/8/2021 15:11,39.79,59,Pendiente,Credit Card,Barcelona,Nour Rossi,gadget product jewelry,jewelry grocery
+21/11/2022 12:32,15.68,80,Cancelado,Sin definir,Prague,Olivia Kumar,product gear,electronics software
+28/8/2021 09:30,132.6,38,Completado,Sin definir,Cairo,Ines Novak,book,jewelry
+3/3/2021 11:20,19.15,32,Pendiente,Credit Card,Bogota,Mateo Johnson,widget gadget gear,grocery health
+3/3/2021 11:20,19.15,32,Pendiente,Credit Card,Bogota,Mateo Johnson,widget gadget gear,grocery health
+23/5/2022 12:16,42.9,58,Cancelado,Credit Card,Bangkok,Oscar Becker,toy cosmetic,Sin categoría
+23/5/2022 12:16,42.9,58,Cancelado,PayPal,Bangkok,Oscar Becker,toy cosmetic,Sin categoría
+30/10/2022 09:47,620.09,38,Completado,Credit Card,Denver,Felix Khan,footwear,jewelry grocery
+6/11/2021 02:23,1396.06,44,Pendiente,Bank Transfer,Denver,Maria Oliveira,gadget,jewelry grocery
+1/1/2022 11:47,23.77,38,Cancelado,Credit Card,Sin registrar,Amir Hansen,stationery software,grocery toys beauty
+1/1/2022 11:47,23.77,38,Cancelado,Credit Card,Sin registrar,Amir Hansen,stationery software,grocery toys beauty
+17/3/2022 19:23,1276.37,47,Completado,Sin definir,Mumbai,Fatima Novak,device,jewelry grocery
+30/6/2021 14:22,104.86,57,Pendiente,Gift Card,Edinburgh,Lena Schneider,jewelry game,accessories furniture
+18/3/2021 12:42,4191.7,51,Cancelado,Sin definir,Prague,Priya Lee,stationery,home beauty
+28/3/2022 13:33,322.35,17,Completado,Credit Card,Sin registrar,Daniel Bennett,appliance,grocery health
+29/11/2022 18:03,55.61,59,Pendiente,Bank Transfer,Barcelona,Ethan Demir,gear item,Sin categoría
+30/1/2022 12:05,1683.32,29,Cancelado,Sin definir,Helsinki,James Ahmed,software game gear,Sin categoría
+20/1/2022 10:18,0,48,Completado,Credit Card,Chicago,Uma Shah,gadget,jewelry grocery
+2/4/2022 16:36,169.1,59,Pendiente,Credit Card,Sydney,Sara Kaya,appliance,grocery health
+2/4/2022 16:36,169.1,59,Pendiente,PayPal,Sydney,Sara Kaya,appliance,grocery health
+13/5/2021 11:07,1202.76,47,Cancelado,PayPal,Paris,Daniel Johnson,device hardware appliance,software
+23/4/2021 12:37,67.38,53,Completado,Credit Card,Vienna,Pedro Flores,gadget tool book,jewelry
+23/4/2021 12:37,67.38,53,Completado,Gift Card,Vienna,Pedro Flores,gadget tool book,jewelry
+23/4/2021 12:37,67.38,53,Completado,Gift Card,Vienna,Pedro Flores,gadget tool book,jewelry
+28/10/2022 14:04,1476.77,42,Pendiente,PayPal,Ankara,Elena Walker,book kitchenware hardware,software
+28/5/2021 15:09,133.09,64,Cancelado,Credit Card,Ankara,Sam Demir,gadget tool book,jewelry
+22/4/2022 14:51,24.66,47,Completado,Credit Card,Denver,Felix Khan,gadget product jewelry,jewelry grocery
+22/4/2022 14:51,24.66,47,Completado,PayPal,Denver,Felix Khan,gadget product jewelry,jewelry grocery
+23/3/2022 18:03,1149.85,26,Pendiente,Credit Card,Sao Paulo,Theo Novak,appliance,grocery health
+23/3/2022 18:03,1149.85,26,Pendiente,Gift Card,Sao Paulo,Theo Novak,appliance,grocery health
+23/3/2022 18:03,1149.85,26,Pendiente,Gift Card,Sao Paulo,Theo Novak,appliance,grocery health
+27/11/2022 17:07,3332.29,64,Cancelado,Sin definir,Istanbul,Paula Pereira,accessory clothing,Sin categoría
+8/5/2021 15:41,1490.97,53,Completado,Credit Card,Denver,Noah Mendes,clothing appliance,Sin categoría
+8/5/2021 15:41,1490.97,53,Completado,PayPal,Denver,Noah Mendes,clothing appliance,Sin categoría
+17/10/2021 12:53,2741.65,27,Pendiente,PayPal,Ankara,Elena Walker,game widget,grocery toys beauty
+10/3/2021 19:04,1962.15,51,Cancelado,Sin definir,Paris,Daniel Johnson,game widget,grocery toys beauty
+1/10/2022 14:42,12.44,27,Completado,Sin definir,Hamburg,Emma Wagner,hardware,home beauty
+30/7/2021 14:44,61.5,51,Pendiente,Sin definir,Manila,Fatima Wright,gadget,jewelry grocery
+16/7/2022 13:04,414.33,32,Cancelado,Credit Card,Santiago,Mohamed Murphy,footwear hardware item,electronics software
+16/7/2022 13:04,414.33,32,Cancelado,PayPal,Santiago,Mohamed Murphy,footwear hardware item,electronics software
+7/4/2022 18:42,309.21,71,Completado,Credit Card,Ankara,Anna Andersen,book jewelry,Sin categoría
+7/4/2022 18:42,309.21,71,Completado,Gift Card,Ankara,Anna Andersen,book jewelry,Sin categoría
+26/5/2022 14:55,715.1,66,Pendiente,Sin definir,Paris,Daniel Johnson,gadget tool book,jewelry
+26/10/2021 09:11,3954.09,65,Cancelado,Credit Card,San Diego,Omar Smith,device,jewelry grocery
+23/6/2021 16:40,38.51,42,Completado,Credit Card,Paris,Laura Andersen,tool cosmetic,electronics software
+23/6/2021 16:40,38.51,42,Completado,Credit Card,Paris,Laura Andersen,tool cosmetic,electronics software
+23/6/2021 16:40,38.51,42,Completado,Gift Card,Paris,Laura Andersen,tool cosmetic,electronics software
+16/11/2022 09:22,2160.12,36,Pendiente,Credit Card,Hamburg,Sven Costa,stationery software,grocery toys beauty
+16/11/2022 09:22,2160.12,36,Pendiente,Credit Card,Hamburg,Sven Costa,stationery software,grocery toys beauty
+12/9/2022 18:48,1841.98,55,Cancelado,Gift Card,Ankara,Uma Diaz,book,jewelry grocery
+12/9/2022 18:48,1841.98,55,Cancelado,PayPal,Ankara,Uma Diaz,book,jewelry grocery
+28/5/2022 08:02,0,58,Completado,Sin definir,Ankara,Anna Andersen,footwear hardware item,electronics software
+10/4/2022 12:01,323.54,72,Pendiente,Sin definir,Paris,Maya Adams,widget,electronics software
+30/9/2021 16:45,41.56,32,Cancelado,Bank Transfer,Vancouver,Carla Hughes,tool,grocery health
+9/8/2022 12:13,115.69,54,Completado,Gift Card,Izmir,Grace Silva,kitchenware product,software
+5/2/2022 17:52,24.21,65,Pendiente,Credit Card,London,Oscar Kaya,device,jewelry grocery
+5/2/2022 17:52,24.21,65,Pendiente,Credit Card,London,Oscar Kaya,device,jewelry grocery
+5/2/2022 17:52,24.21,65,Pendiente,PayPal,London,Oscar Kaya,device,jewelry grocery
+5/2/2022 17:52,24.21,65,Pendiente,PayPal,London,Oscar Kaya,device,jewelry grocery
+21/2/2021 09:27,0,51,Cancelado,Gift Card,Hamburg,Mateo Lopez,book,jewelry
+21/2/2021 09:27,0,51,Cancelado,PayPal,Hamburg,Mateo Lopez,book,jewelry
+15/7/2021 09:57,95.33,65,Completado,Credit Card,Sin registrar,Selin Cruz,hardware kitchenware,Sin categoría
+15/7/2021 09:57,95.33,65,Completado,Credit Card,Sin registrar,Selin Cruz,hardware kitchenware,Sin categoría
+15/7/2021 09:57,95.33,65,Completado,Credit Card,Sin registrar,Selin Cruz,hardware kitchenware,Sin categoría
+15/7/2021 09:57,95.33,65,Completado,PayPal,Sin registrar,Selin Cruz,hardware kitchenware,Sin categoría
+1/1/2022 14:18,2486.97,79,Pendiente,Sin definir,Buenos Aires,Elif Larsen,stationery accessory,jewelry
+17/3/2022 22:55,81.57,38,Cancelado,Sin definir,Zurich,Ravi Pereira,cosmetic,home beauty
+13/3/2022 16:22,765.47,19,Completado,Sin definir,Sin registrar,James Walker,kitchenware appliance,Sin categoría
+25/11/2021 14:43,3042.58,84,Pendiente,Sin definir,Singapore,Omar Nguyen,gadget product jewelry,jewelry grocery
+29/7/2021 09:33,1090.7,59,Cancelado,Sin definir,Sin registrar,Nour Fischer,hardware kitchenware,Sin categoría
+19/1/2021 11:28,1849.21,60,Completado,Credit Card,Munich,Rosa Wang,gadget,jewelry grocery
+4/12/2022 22:22,731.68,33,Pendiente,Sin definir,Singapore,Deniz Yilmaz,accessory clothing,Sin categoría
+28/1/2021 14:27,1244.01,62,Cancelado,Credit Card,Kyoto,Kai Miller,software widget game,grocery toys beauty
+28/1/2021 14:27,1244.01,62,Cancelado,Gift Card,Kyoto,Kai Miller,software widget game,grocery toys beauty
+12/3/2021 18:38,276.17,44,Completado,Credit Card,Chicago,Hannah Smith,gadget,jewelry grocery
+12/3/2021 18:38,276.17,44,Completado,Gift Card,Chicago,Hannah Smith,gadget,jewelry grocery
+12/3/2021 18:38,276.17,44,Completado,PayPal,Chicago,Hannah Smith,gadget,jewelry grocery
+16/7/2021 11:12,2477.18,62,Pendiente,Credit Card,Oslo,Daniel Chen,tool cosmetic,electronics software
+16/7/2021 11:12,2477.18,62,Pendiente,PayPal,Oslo,Daniel Chen,tool cosmetic,electronics software
+24/12/2021 09:50,917.29,48,Cancelado,PayPal,Istanbul,Paula Pereira,clothing appliance book,home beauty
+24/12/2021 09:50,917.29,48,Cancelado,PayPal,Istanbul,Paula Pereira,clothing appliance book,home beauty
+20/2/2022 15:54,1063.69,38,Completado,Gift Card,Sao Paulo,Theo Novak,stationery accessory,jewelry
+29/1/2021 17:09,1256.68,52,Pendiente,PayPal,Munich,Ravi Oliveira,hardware kitchenware,Sin categoría
+29/1/2021 17:09,1256.68,52,Pendiente,PayPal,Munich,Ravi Oliveira,hardware kitchenware,Sin categoría
+8/11/2022 15:30,0,56,Cancelado,Credit Card,Izmir,Sam Kowalski,toy cosmetic,Sin categoría
+8/11/2022 15:30,0,56,Cancelado,PayPal,Izmir,Sam Kowalski,toy cosmetic,Sin categoría
+22/7/2021 15:50,3438.86,47,Completado,Credit Card,Helsinki,Carla Chen,book,jewelry grocery
+22/7/2021 15:50,3438.86,47,Completado,Gift Card,Helsinki,Carla Chen,book,jewelry grocery
+28/3/2021 08:47,4542.27,46,Pendiente,Bank Transfer,Santiago,Mohamed Murphy,hardware kitchenware,Sin categoría
+28/3/2021 08:47,4542.27,46,Pendiente,Gift Card,Santiago,Mohamed Murphy,hardware kitchenware,Sin categoría
+20/5/2022 10:16,2983.1,43,Cancelado,Credit Card,Jakarta,Mateo Shah,hardware kitchenware,Sin categoría
+27/4/2021 23:50,296.36,61,Completado,Credit Card,Helsinki,James Ahmed,book tool,jewelry
+27/4/2021 23:50,296.36,61,Completado,Gift Card,Helsinki,James Ahmed,book tool,jewelry
+5/11/2022 13:58,4287.5,46,Pendiente,PayPal,Hamburg,Hana Hoffmann,toy,grocery health
+3/11/2022 09:02,0,34,Cancelado,Credit Card,Bangkok,Hannah Park,kitchenware stationery game,Sin categoría
+3/11/2022 09:02,0,34,Cancelado,Credit Card,Bangkok,Hannah Park,kitchenware stationery game,Sin categoría
+4/10/2022 14:09,361.12,54,Completado,Credit Card,Mexico City,Ines Cruz,kitchenware stationery game,Sin categoría
+4/10/2022 14:09,361.12,54,Completado,Credit Card,Mexico City,Ines Cruz,kitchenware stationery game,Sin categoría
+1/11/2022 15:17,131.66,31,Pendiente,Credit Card,London,Lucas Smith,cosmetic,home beauty
+1/11/2022 15:17,131.66,31,Pendiente,Gift Card,London,Lucas Smith,cosmetic,home beauty
+14/2/2022 09:40,498.98,42,Cancelado,Sin definir,Sin registrar,Hannah Kumar,game item furniture,electronics software
+31/1/2021 18:13,220.09,41,Completado,Credit Card,Bogota,Pedro Gupta,stationery,home beauty
+31/1/2021 18:13,220.09,41,Completado,Gift Card,Bogota,Pedro Gupta,stationery,home beauty
+31/1/2021 18:13,220.09,41,Completado,Gift Card,Bogota,Pedro Gupta,stationery,home beauty
+28/4/2022 15:36,28.0,75,Pendiente,Credit Card,Seattle,Andre Andersen,jewelry,software
+28/4/2022 15:36,28.0,75,Pendiente,PayPal,Seattle,Andre Andersen,jewelry,software
+22/11/2021 09:47,251.36,56,Cancelado,Credit Card,Manchester,Elif Sato,gadget tool book,jewelry
+22/11/2021 09:47,251.36,56,Cancelado,Gift Card,Manchester,Elif Sato,gadget tool book,jewelry
+11/4/2022 11:29,886.26,35,Completado,PayPal,Taipei,Nadia Moreau,hardware,home beauty
+18/9/2022 08:43,575.82,21,Pendiente,Sin definir,Berlin,Daniel Wang,jewelry product accessory,electronics software
+1/7/2022 10:27,577.56,58,Cancelado,Credit Card,Sao Paulo,Theo Novak,stationery,software
+4/3/2021 13:46,3194.67,69,Completado,Sin definir,Prague,Tariq Johnson,book widget kitchenware,accessories furniture
+18/8/2022 07:58,0,29,Pendiente,Sin definir,Porto,Deniz Lee,clothing appliance book,home beauty
+4/2/2021 15:40,1129.43,67,Cancelado,Sin definir,Zurich,Ruby Bauer,hardware,software
+1/12/2021 15:26,493.18,54,Completado,Credit Card,Istanbul,Ethan Cruz,game widget,grocery toys beauty
+28/12/2021 11:15,3781.34,45,Pendiente,Sin definir,Barcelona,Ethan Demir,stationery accessory,jewelry
+10/12/2021 14:52,951.86,22,Cancelado,Credit Card,Stockholm,Selin Schmidt,book jewelry,Sin categoría
+12/5/2022 12:58,2794.39,51,Completado,Credit Card,Chicago,Alice Baker,stationery software,grocery toys beauty
+14/1/2021 10:15,952.81,76,Pendiente,Sin definir,Helsinki,James Ahmed,product gear,electronics software
+14/7/2021 16:05,486.83,75,Cancelado,Sin definir,Istanbul,Nadia Murphy,software game gear,Sin categoría
+3/4/2021 04:04,381.96,54,Completado,Sin definir,Sin registrar,Ana Diaz,book,jewelry grocery
+25/3/2021 11:22,168.49,36,Pendiente,Credit Card,Sin registrar,Ana Diaz,kitchenware appliance,Sin categoría
+25/3/2021 11:22,168.49,36,Pendiente,PayPal,Sin registrar,Ana Diaz,kitchenware appliance,Sin categoría
+25/3/2021 11:22,168.49,36,Pendiente,PayPal,Sin registrar,Ana Diaz,kitchenware appliance,Sin categoría
+26/4/2022 16:36,29.1,51,Cancelado,Credit Card,Paris,Felix Garcia,hardware,home beauty
+26/4/2022 16:36,29.1,51,Cancelado,Credit Card,Paris,Felix Garcia,hardware,home beauty
+26/4/2022 16:36,29.1,51,Cancelado,PayPal,Paris,Felix Garcia,hardware,home beauty
+12/10/2021 09:38,694.72,51,Completado,Sin definir,Sin registrar,Ravi Walker,product gear,electronics software
+18/2/2021 13:26,466.21,65,Pendiente,Sin definir,Seoul,Lucas Zhang,jewelry,software
+23/3/2021 12:57,2601.37,61,Cancelado,Credit Card,Amsterdam,Ben Hansen,product gear,electronics software
+23/11/2021 10:19,0,34,Completado,Bank Transfer,Auckland,Lina Kumar,book,jewelry grocery
+23/11/2021 10:19,0,34,Completado,PayPal,Auckland,Lina Kumar,book,jewelry grocery
+22/1/2021 07:57,1366.94,75,Pendiente,Credit Card,Stockholm,Sara Bauer,hardware,home beauty
+9/7/2022 10:10,4693.78,61,Cancelado,Gift Card,Mexico City,Fatima Adams,toy cosmetic,Sin categoría
+12/1/2022 10:54,938.69,57,Completado,Sin definir,Prague,Priya Lee,book jewelry,Sin categoría
+14/9/2021 13:02,723.6,69,Pendiente,Sin definir,Berlin,Ivan Pereira,stationery accessory,jewelry
+6/12/2021 16:44,3217.14,52,Cancelado,Credit Card,Nairobi,Jack Davis,clothing appliance,Sin categoría
+6/12/2021 16:44,3217.14,52,Cancelado,PayPal,Nairobi,Jack Davis,clothing appliance,Sin categoría
+6/1/2022 23:28,2235.59,46,Completado,Credit Card,Cairo,Chen Miller,jewelry game,accessories furniture
+6/1/2022 23:28,2235.59,46,Completado,PayPal,Cairo,Chen Miller,jewelry game,accessories furniture
+26/12/2022 07:03,4035.04,50,Pendiente,Credit Card,Bogota,Mateo Johnson,book,jewelry grocery
+16/5/2022 11:45,151.58,71,Cancelado,Sin definir,Bangkok,Hannah Park,game jewelry,Sin categoría
+8/5/2022 11:50,120.47,35,Completado,Credit Card,Delhi,Nour Yilmaz,clothing appliance book,home beauty
+8/5/2022 11:50,120.47,35,Completado,Credit Card,Delhi,Nour Yilmaz,clothing appliance book,home beauty
+8/5/2022 11:50,120.47,35,Completado,Credit Card,Delhi,Nour Yilmaz,clothing appliance book,home beauty
+17/1/2021 17:04,165.72,65,Pendiente,PayPal,Bangkok,Hannah Park,book kitchenware hardware,software
+31/5/2021 12:17,3485.09,62,Cancelado,Sin definir,Izmir,Grace Silva,stationery,software
+29/7/2021 18:34,2278.79,48,Completado,PayPal,Istanbul,Lucas Chen,book jewelry,Sin categoría
+29/7/2021 18:34,2278.79,48,Completado,PayPal,Istanbul,Lucas Chen,book jewelry,Sin categoría
+11/9/2022 08:54,4687.08,48,Pendiente,Credit Card,Sydney,Carlos Costa,kitchenware stationery game,Sin categoría
+23/7/2021 11:33,88.58,51,Cancelado,Sin definir,Singapore,Carlos Miller,device,jewelry grocery
+14/11/2021 15:09,3731.47,43,Completado,Bank Transfer,Santiago,Mohamed Murphy,tool cosmetic,electronics software
+14/11/2021 15:09,3731.47,43,Completado,Gift Card,Santiago,Mohamed Murphy,tool cosmetic,electronics software
+14/11/2021 15:09,3731.47,43,Completado,PayPal,Santiago,Mohamed Murphy,tool cosmetic,electronics software
+13/10/2021 12:58,1884.91,34,Pendiente,Credit Card,Sin registrar,Amir Hansen,game item furniture,electronics software
+13/10/2021 12:58,1884.91,34,Pendiente,PayPal,Sin registrar,Amir Hansen,game item furniture,electronics software
+15/10/2021 10:26,17.47,24,Cancelado,Bank Transfer,Buenos Aires,Elif Larsen,gadget,jewelry grocery
+24/12/2021 10:07,2567.6,42,Completado,Credit Card,Denver,Maja Zhang,kitchenware appliance,Sin categoría
+24/12/2021 10:07,2567.6,42,Completado,Gift Card,Denver,Maja Zhang,kitchenware appliance,Sin categoría
+28/11/2021 10:49,550.51,61,Pendiente,Credit Card,London,Diego Ahmed,game item clothing,home beauty
+28/11/2021 10:49,550.51,61,Pendiente,Credit Card,London,Diego Ahmed,game item clothing,home beauty
+26/11/2021 16:49,153.94,45,Cancelado,Credit Card,Chicago,Chloe Ibrahim,appliance,grocery health
+24/12/2021 17:54,0,44,Completado,Bank Transfer,Lima,Andre Gupta,software widget game,grocery toys beauty
+24/12/2021 17:54,0,44,Completado,PayPal,Lima,Andre Gupta,software widget game,grocery toys beauty
+18/10/2021 12:43,1088.22,48,Pendiente,Sin definir,London,Mila Hughes,footwear,jewelry grocery
+17/6/2022 11:33,166.42,66,Cancelado,PayPal,Vancouver,Deniz Vargas,gadget hardware,software
+27/11/2022 15:56,0,19,Completado,Sin definir,Chicago,Chloe Ibrahim,kitchenware stationery game,Sin categoría
