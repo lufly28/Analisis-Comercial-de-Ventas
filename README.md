@@ -7,7 +7,7 @@
 > **Dashboard interactivo diseñado para identificar tendencias de ventas, productos estrella y el comportamiento de compra de los clientes en una empresa ficticia.**
 
 ![Vista previa del Dashboard](assets/dashboard_portada.png) 
-*(💡 Nota para ti: Reemplaza este enlace con la ruta real de la captura de pantalla de tu dashboard)*
+
 
 ## 🎯 Objetivo del Proyecto
 Analizar el desempeño comercial mediante el procesamiento de una base de datos relacional y la creación de un panel de control interactivo. El enfoque principal es transformar datos brutos en insights accionables que permitan identificar oportunidades de mejora comercial.
@@ -30,10 +30,9 @@ A través de este análisis, se da respuesta a las siguientes interrogantes clav
 * **Comportamiento de pago:** *(Ej. La tarjeta de crédito es el método de pago predominante, procesando más de 200 pedidos...)*
 
 ## 🚀 Interactividad
-![Demostración interactiva](assets/dashboard_interactivo.gif)
-*(💡 Nota para ti: Aquí irá el GIF mostrando cómo cambian los gráficos al usar los filtros de tu dashboard)*
+![Demostración interactiva del Dashboard](05_Documentacion/GIF_Dashdoard_comercial_ventas.gif)
 
 ## 📬 Contacto
 Para ver más de mis proyectos analíticos y publicaciones sobre estrategia de negocios y rendimiento corporativo, puedes conectar conmigo en LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/florenciagira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florenciagira/)
