@@ -6,8 +6,7 @@
 
 > **Dashboard interactivo diseñado para identificar tendencias de ventas, productos estrella y el comportamiento de compra de los clientes en una empresa ficticia.**
 
-![Vista previa del Dashboard](assets/dashboard_portada.png) 
-
+![Vista previa del Dashboard](05_Documentacion/Dashboar%20Comercial%20Visualizacion.png)
 
 ## 🎯 Objetivo del Proyecto
 Analizar el desempeño comercial mediante el procesamiento de una base de datos relacional y la creación de un panel de control interactivo. El enfoque principal es transformar datos brutos en insights accionables que permitan identificar oportunidades de mejora comercial.
@@ -25,12 +24,12 @@ A través de este análisis, se da respuesta a las siguientes interrogantes clav
 3. **Power BI:** Modelado de datos, creación de medidas DAX y desarrollo de la visualización interactiva.
 
 ## 💡 Principales Hallazgos (Insights)
-* **Tendencia de ingresos:** *(Ej. Se observa un pico histórico de ventas durante el mes de enero...)*
-* **Liderazgo de productos:** *(Ej. La categoría de Software lidera ampliamente la facturación, superando los 19 millones...)*
-* **Comportamiento de pago:** *(Ej. La tarjeta de crédito es el método de pago predominante, procesando más de 200 pedidos...)*
+* **Tendencia de ingresos:** *Se observa un pico histórico de ventas durante el mes de enero*
+* **Liderazgo de productos:** *La categoría de Software lidera ampliamente la facturación, superando los 19 millones*
+* **Comportamiento de pago:** *La tarjeta de crédito es el método de pago predominante, procesando más de 200 pedidos*
 
 ## 🚀 Interactividad
-![Demostración interactiva del Dashboard](05_Documentacion/GIF_Dashdoard_comercial_ventas.gif)
+![Demostración interactiva](05_Documentacion/GIF%20Dashboard%20comercial%20ventas.gif)
 
 ## 📬 Contacto
 Para ver más de mis proyectos analíticos y publicaciones sobre estrategia de negocios y rendimiento corporativo, puedes conectar conmigo en LinkedIn:
